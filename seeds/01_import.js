@@ -19,31 +19,43 @@ exports.seed = function(knex, Promise) {
       ]);
     })
     .then(() => {
-      return Promise.all(
-        Object.keys(albums).map(function(list) {
-          let record = albums[list];
-          console.log(record);
-          return knex('album').insert({
+      let allGenresWithDuplicates = [];
+      albums.forEach((genreKey) => {
+        const GENRE = genreKey.genre;
+        // Loop through all genres and push all genres to an empty array.
+        // This will return duplicates
+        for (let i = 0; i < GENRE.length; i++) {
+          allGenresWithDuplicates.push(GENRE[i]);
+        }
+      })
+      // Use reduce to get rid of all duplicates and push them into an array.
+      let genreArray = allGenresWithDuplicates.reduce((allGenres, individualGenre) => {
+        if (!allGenres.includes(individualGenre)) {
+          allGenres.push(individualGenre);
+        }
+        return allGenres;
+      }, [])
+
+      // Sort the array so all genres are inserted alphabetically
+      genreArray = genreArray.sort();
+      for (let i = 0; i < genreArray.length; i++) {
+        genreArray[i] = {
+          "genre-name": genreArray[i]
+        };
+      }
+      // console.log(genreArray);
+      return knex('genre').insert(genreArray);
+    })
+    .then(() => {
+        albums.forEach((record) => {
+          let albumInfo = {
             order: record.rating,
-
-
-
-          })
+            album: record.album,
+            artist: record.artist,
+            year: record.year
+          }
+          console.log(albumInfo);
+          return knex('album').insert(albumInfo);
         })
-      )
     })
 };
-
-
-
-
-
-// return knex.raw('ALTER SEQUENCE genre_id_seq RESTART WITH 1').then( () => {
-//   return Promise.join(
-//     knex('genre').del(),
-//
-//     knex().insert({
-//
-//     });
-//   );
-// });
