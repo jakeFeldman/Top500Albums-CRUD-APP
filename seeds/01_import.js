@@ -38,6 +38,8 @@ exports.seed = function(knex, Promise) {
 
       // Sort the array so all genres are inserted alphabetically
       genreArray = genreArray.sort();
+
+      // Loop through genreArray and push each genre to an individual object to insert into the
       for (let i = 0; i < genreArray.length; i++) {
         genreArray[i] = {
           "genre-name": genreArray[i]
@@ -55,24 +57,25 @@ exports.seed = function(knex, Promise) {
             artist: record.artist,
             year: record.year
           }
-          // console.log(albumInfo);
+          // Insert Album into album table, callback 'id' (ALBUM ID)
           return knex('album').insert(albumInfo, 'id')
-          .then((result) => {
-            let album_id = result[0];
-            // console.log(album_id);
+          // With ID as the callback, assign it to ablum_id (Used for storing and placing into the join table).
+          .then((albumIDs) => {
+            // Specify which index value 0;
+            const album_id = albumIDs[0];
+            // Lookup in genre table where "genre-name"
             return knex('genre').whereIn("genre-name", record.genre).pluck('genre.id')
             .then((genreIDs)=>{
-              // console.log(genreIDs);
-                const IDS = genreIDs.map((genre_id)=>{
+                const album_genre_ID = genreIDs.map((genre_id)=>{
                   return {
                     album_id,
                     genre_id
                   }
                 });
-                return knex('album_genre').insert(IDS);
+                return knex('album_genre').insert(album_genre_ID);
             });
           });
-        });
+        })
       );
     });
 };
