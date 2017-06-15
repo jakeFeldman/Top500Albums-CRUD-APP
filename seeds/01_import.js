@@ -13,9 +13,9 @@ exports.seed = function(knex, Promise) {
     })
     .then(() => {
       return Promise.all([
-        knex.raw('ALTER SEQUENCE album_genre_id_seq RESTART WITH 1;'),
-        knex.raw('ALTER SEQUENCE album_id_seq RESTART WITH 1;'),
-        knex.raw('ALTER SEQUENCE genre_id_seq RESTART WITH 1;'),
+        knex.raw('TRUNCATE album_genre RESTART IDENTITY CASCADE;'),
+        knex.raw('TRUNCATE album RESTART IDENTITY CASCADE;'),
+        knex.raw('TRUNCATE genre RESTART IDENTITY CASCADE;'),
       ]);
     })
     .then(() => {
@@ -47,15 +47,32 @@ exports.seed = function(knex, Promise) {
       return knex('genre').insert(genreArray);
     })
     .then(() => {
-        albums.forEach((record) => {
+      return Promise.all(
+        albums.map((record) => {
           let albumInfo = {
             order: record.rating,
             album: record.album,
             artist: record.artist,
             year: record.year
           }
-          console.log(albumInfo);
-          return knex('album').insert(albumInfo);
-        })
-    })
+          // console.log(albumInfo);
+          return knex('album').insert(albumInfo, 'id')
+          .then((result) => {
+            let album_id = result[0];
+            // console.log(album_id);
+            return knex('genre').whereIn("genre-name", record.genre).pluck('genre.id')
+            .then((genreIDs)=>{
+              // console.log(genreIDs);
+                const IDS = genreIDs.map((genre_id)=>{
+                  return {
+                    album_id,
+                    genre_id
+                  }
+                });
+                return knex('album_genre').insert(IDS);
+            });
+          });
+        });
+      );
+    });
 };
