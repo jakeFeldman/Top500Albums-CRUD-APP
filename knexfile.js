@@ -6,7 +6,4 @@ module.exports = {
     client: 'postgresql',
     connection: 'postgres://localhost/top-500-album',
   },
-  production: {
-    client: 'postgresql',
-  }
 };

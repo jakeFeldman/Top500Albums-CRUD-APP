@@ -10,7 +10,6 @@ fs.readFile('./seeds/albumlist.csv', (error, data) => {
     // Define empty object to store the data
     let top_500_albums = [];
 
-    // console.log(data);
     // Iterate through the data in the csv file
     // Start at one to skip the header
     for (var i = 1; i < data.length; i++) {
@@ -20,7 +19,6 @@ fs.readFile('./seeds/albumlist.csv', (error, data) => {
       // const albumOrder = row[0];
       // Define the parent object (titled albums) and set each object to the individual
       // albums rating, inside this create an empy array to store the album info
-      // let albums = top_500_albums[albumOrder] = { album: [] }
 
       // Define the individual album object and set each paramater equal to its
       // corrisponding index inside its row array
