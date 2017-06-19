@@ -5,12 +5,13 @@ module.exports = {
     // return knex.select('*', 'album.id as album_id', 'genre.id as genre_id').from('album')
     // .join('album_genre', 'album_genre.album_id', 'album.id')
     // .join('genre', 'genre.id', 'album_genre.genre_id')
-    return knex.select('album.order', 'album.album', 'album.artist', 'album.id as album_id', 'genre.genre_name').from('album')
+    return knex.select('album.rating', 'album.album', 'album.artist', 'album.id as album_id', 'genre.genre_name').from('album')
     .join('album_genre', 'album_genre.album_id', 'album.id')
-    .join('genre', 'genre.id', 'album_genre.genre_id').limit(25)
+    .join('genre', 'genre.id', 'album_genre.genre_id')
+    // .limit(25)
   },
-  getOne: function(order) {
-    return knex('album').where('order', order)
+  getOne: function(rating) {
+    return knex('album').where('rating', rating)
     .join('album_genre', 'album_genre.album_id', 'album.id')
     .join('genre', 'genre.id', 'album_genre.genre_id')
   },
@@ -18,12 +19,3 @@ module.exports = {
     return knex('album').insert(album, '*');
   }
 };
-//
-// "id": 95,
-//         "order": "5",
-//         "album": "Rubber Soul",
-//         "artist": "The Beatles",
-//         "year": "1965",
-//         "genre_id": 95,
-//         "album_id": 5,
-//         "genre_name": "Pop Rock"

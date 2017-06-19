@@ -56,7 +56,7 @@ exports.seed = function(knex, Promise) {
         // Map/Iterate through the albums and set the data object
         albums.map((record) => {
           let album_table = {
-            order: record.rating,
+            rating: record.rating,
             album: record.album,
             artist: record.artist,
             year: record.year
