@@ -3,34 +3,52 @@ const router = express.Router();
 const queries = require('../db/queries');
 
 router.get('/', (req, res) => {
-  queries.getAll().then( albums => {
+  queries.getAll()
+  .then(albums => {
     const albumsWithGenres = [];
     const albumsByGenre = {};
-
-    albums.forEach( album => {
-    //   console.log(albumsByGenre[albums.genre_name]);
-    //   if(!albumsByGenre[albums.genre_name]) {
-    //     const album = {
-    //       id: albums.id,
-    //       album: albums.album,
-    //       artist: albums.artist,
-    //       year: albums.year,
-    //       genres: []
-    //     }
-    //     albumsWithGenres.push(album);
-    //     albumsByGenre[albums.genre_name] = albums;
-    //   }
-    //
-    //   [album.genres].push(albums.genre);
-    //
+    albums.forEach(album => {
+      if (!albumsByGenre[album.album_id]) {
+        const albumRecord = {
+          id: album.album_id,
+          rating: album.rating,
+          album: album.album,
+          artist: album.artist,
+          year: album.year,
+          artwork_url: album.artwork_url,
+          genres: []
+        }
+        albumsWithGenres.push(albumRecord);
+        albumsByGenre[album.album_id] = albumRecord;
+      }
+      (albumsByGenre[album.album_id].genres).push(album.genre_name);
     })
-    res.json(albums);
+    res.json(albumsWithGenres);
   })
 })
 
-router.get('/:order', (req, res) => {
-  queries.getOne(req.params.order).then( album => {
-    res.json(album)
+router.get('/:rating', (req, res) => {
+  queries.getOne(req.params.rating)
+  .then(albums => {
+    const albumsWithGenres = [];
+    const albumsByGenre = {};
+    albums.forEach(album => {
+      if (!albumsByGenre[album.album_id]) {
+        const albumRecord = {
+          id: album.album_id,
+          rating: album.rating,
+          album: album.album,
+          artist: album.artist,
+          year: album.year,
+          artwork_url: album.artwork_url,
+          genres: []
+        }
+        albumsWithGenres.push(albumRecord);
+        albumsByGenre[album.album_id] = albumRecord;
+      }
+      (albumsByGenre[album.album_id].genres).push(album.genre_name);
+    })
+    res.json(albumsWithGenres);
   })
 })
 
