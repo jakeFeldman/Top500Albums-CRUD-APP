@@ -27,13 +27,14 @@ fs.readFile('./seeds/albumlist.csv', (error, data) => {
         album: row[1],
         artist: row[2],
         year: row[3],
+        artwork_url: row[4],
         genre: []
       }
 
       // Interate through the final part of the row array to extract and push
       // the many to many relationship to its own array inside the object
 
-      for (var j = 4; j < row.length; j++) {
+      for (var j = 5; j < row.length; j++) {
         if (row[j]) {
           record.genre.push(row[j]);
         } else {

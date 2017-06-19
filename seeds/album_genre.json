@@ -3,2999 +3,3499 @@
   "album": "Sgt. Pepper's Lonely Hearts Club Band",
   "artist": "The Beatles",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/maxresdefault-44c6ea70-41a8-48cc-9198-9c81ffa11311.jpg",
   "genre": ["Rock & Roll", "Psychedelic Rock"]
 }, {
   "rating": "2",
   "album": "Pet Sounds",
   "artist": "The Beach Boys",
   "year": "1966",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136791-eafbc592120358b4d3d14cda5acebf62ae50a522.jpg",
   "genre": ["Pop Rock", "Psychedelic Rock"]
 }, {
   "rating": "3",
   "album": "Revolver",
   "artist": "The Beatles",
   "year": "1966",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136792-daa031ec00ad83a2da305fe583d746d030fa46ca.jpg",
   "genre": ["Psychedelic Rock", "Pop Rock"]
 }, {
   "rating": "4",
   "album": "Highway 61 Revisited",
   "artist": "Bob Dylan",
   "year": "1965",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136793-3dbec55509cc2ca2776a37e27102718700790947.jpg",
   "genre": ["Folk Rock", "Blues Rock"]
 }, {
   "rating": "5",
   "album": "Rubber Soul",
   "artist": "The Beatles",
   "year": "1965",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136794-6a2b508760f8dfca2260822c63640baa769795b4.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "6",
   "album": "What's Going On",
   "artist": "Marvin Gaye",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136795-89f4e4079e43af44a80043f496eebfc562e3c9ec.jpg",
   "genre": ["Soul"]
 }, {
   "rating": "7",
   "album": "Exile on Main St.",
   "artist": "The Rolling Stones",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136796-a79e314b8bb4a44886afc91cf2db9b0e6f4a1526.jpg",
   "genre": ["Blues Rock", "Rock & Roll", "Classic Rock"]
 }, {
   "rating": "8",
   "album": "London Calling",
   "artist": "The Clash",
   "year": "1979",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136797-692d99af3ab2207de3a7757ad3eb2fc65644ed49.jpg",
   "genre": ["Punk", "New Wave"]
 }, {
   "rating": "9",
   "album": "Blonde on Blonde",
   "artist": "Bob Dylan",
   "year": "1966",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136798-c659072c7a5fd09b178fc73b1cc6c03bc9c5763b.jpg",
   "genre": ["Folk Rock", "Rhythm & Blues"]
 }, {
   "rating": "10",
   "album": "The Beatles (\"The White Album\")",
   "artist": "The Beatles",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136799-c851b340c6dccdeafaeb8d147ea084cba2e06236.jpg",
   "genre": ["Rock & Roll", "Pop Rock", "Psychedelic Rock", "Experimental"]
 }, {
   "rating": "11",
   "album": "The Sun Sessions",
   "artist": "Elvis Presley",
   "year": "1976",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136800-7a33165e92d530dd0f7c190f9dd46f81b95c5913.jpg",
   "genre": ["Rock & Roll"]
 }, {
   "rating": "12",
   "album": "Kind of Blue",
   "artist": "Miles Davis",
   "year": "1959",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136801-7d7508478e8e401003325d5d0aaac731560d13ab.jpg",
   "genre": ["Modal"]
 }, {
   "rating": "13",
   "album": "The Velvet Underground & Nico",
   "artist": "The Velvet Underground",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136802-99e8a590fe492cdd130f7debb20f934748fbc4b7.jpg",
   "genre": ["Garage Rock", "Art Rock", "Experimental"]
 }, {
   "rating": "14",
   "album": "Abbey Road",
   "artist": "The Beatles",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136803-0921fbfa76c66953268f4bdeee9410ef7ef02536.jpg",
   "genre": ["Psychedelic Rock", "Classic Rock", "Pop Rock"]
 }, {
   "rating": "15",
   "album": "Are You Experienced",
   "artist": "The Jimi Hendrix Experience",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136804-5c60b6f07182074469636bb45da1fd26b8d2a04f.jpg",
   "genre": ["Blues Rock", "Psychedelic Rock"]
 }, {
   "rating": "16",
   "album": "Blood on the Tracks",
   "artist": "Bob Dylan",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136805-d7f732b2975aa5f48929bab82e158620c28021ee.jpg",
   "genre": ["Folk Rock", "Acoustic", "Ballad"]
 }, {
   "rating": "17",
   "album": "Nevermind",
   "artist": "Nirvana",
   "year": "1991",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136806-21ccd83b5593ecaed7b7b09b5bcfa2aed935b208.jpg",
   "genre": ["Alternative Rock", "Grunge"]
 }, {
   "rating": "18",
   "album": "Born to Run",
   "artist": "Bruce Springsteen",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136807-1ccdff7c10d78ca236e7272be46db2562737945a.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "19",
   "album": "Astral Weeks",
   "artist": "Van Morrison",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136808-6f9fc2c6fadb5ba8118b7baa2cd016ddebee2f26.jpg",
   "genre": ["Acoustic", "Classic Rock", "Free Improvisation"]
 }, {
   "rating": "20",
   "album": "Thriller",
   "artist": "Michael Jackson",
   "year": "1982",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136809-5f1d3499fb3eed91d03d8c94213829d42fb87658.jpg",
   "genre": ["Disco"]
 }, {
   "rating": "21",
   "album": "The Great Twenty_Eight",
   "artist": "Chuck Berry",
   "year": "1982",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136810-fc435e4ac67a99344a3f87b874346a03bb864a0d.jpg",
   "genre": ["Rock & Roll"]
 }, {
   "rating": "22",
   "album": "The Complete Recordings",
   "artist": "Robert Johnson",
   "year": "1990",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136811-d728ac46e2ce3da52113fcb8e4e593dac64015d6.jpg",
   "genre": ["Delta Blues"]
 }, {
   "rating": "23",
   "album": "John Lennon/Plastic Ono Band",
   "artist": "John Lennon / Plastic Ono Band",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136812-3de737814351d39eb4854aed81106f8b2f7564e3.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "24",
   "album": "Innervisions",
   "artist": "Stevie Wonder",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136813-cd9ed0f8f7ee429ef0f61b2e111a7bbce304f001.jpg",
   "genre": ["Soul"]
 }, {
   "rating": "25",
   "album": "Live at the Apollo, 1962",
   "artist": "James Brown",
   "year": "1963",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136814-b56e02aec79042fa9b1af99d683ded0c8a2bd461.jpg",
   "genre": ["Rhythm & Blues", "Soul"]
 }, {
   "rating": "26",
   "album": "Rumours",
   "artist": "Fleetwood Mac",
   "year": "1977",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136815-cbb03ec26a73d7619600851e27bddf3511abf4de.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "27",
   "album": "The Joshua Tree",
   "artist": "U2",
   "year": "1987",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136816-520bddc06d6e0cc15e5e664403130b7f82c647ed.jpg",
   "genre": ["Alternative Rock", "Pop Rock"]
 }, {
   "rating": "28",
   "album": "Who's Next",
   "artist": "The Who",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136817-8771b654101c38cee38046c90461899f4609dcc7.jpg",
   "genre": ["Hard Rock", "Mod", "Prog Rock", "Psychedelic Rock"]
 }, {
   "rating": "29",
   "album": "Led Zeppelin",
   "artist": "Led Zeppelin",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136818-f46de354cee13132e928bb4793b21bf466deddcf.jpg",
   "genre": ["Blues Rock", "Hard Rock"]
 }, {
   "rating": "30",
   "album": "Blue",
   "artist": "Joni Mitchell",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136819-028f49baec27d23d1cb2aab9039fd5c59cebcfa8.jpg",
   "genre": ["Acoustic", "Ballad", "Folk"]
 }, {
   "rating": "31",
   "album": "Bringing It All Back Home",
   "artist": "Bob Dylan",
   "year": "1965",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136820-269c3d6190e2dc0dc53c9692a3fccb1b0297d8ba.jpg",
   "genre": ["Folk Rock", "Folk"]
 }, {
   "rating": "32",
   "album": "Let It Bleed",
   "artist": "The Rolling Stones",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136821-33e6772d3021760a05f42698be40425d1e5302b3.jpg",
   "genre": ["Blues Rock", "Hard Rock"]
 }, {
   "rating": "33",
   "album": "Ramones",
   "artist": "Ramones",
   "year": "1976",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136822-e9c37a4eaa1dfdd20c30153be4966ef0059eea5b.jpg",
   "genre": ["Rock & Roll", "Punk"]
 }, {
   "rating": "34",
   "album": "Music From Big Pink",
   "artist": "The Band",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136824-53ea5be949478362759c48a2709486aa141fd212.jpg",
   "genre": ["Folk Rock", "Acoustic", "Blues Rock"]
 }, {
   "rating": "35",
   "album": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
   "artist": "David Bowie",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136823-796577260b3b30587c896ff08e32c4b39c96e207.jpg",
   "genre": ["Classic Rock", "Glam"]
 }, {
   "rating": "36",
   "album": "Tapestry",
   "artist": "Carole King",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136825-665baaa4458af3052fe54e61b4f877ff0fdbfee4.jpg",
   "genre": ["Folk Rock", "Soft Rock"]
 }, {
   "rating": "37",
   "album": "Hotel California",
   "artist": "Eagles",
   "year": "1976",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136826-c1cb2fd484afdaff16cb9f5c0a397c120ff3f74a.jpg",
   "genre": ["Classic Rock"]
 }, {
   "rating": "38",
   "album": "The Anthology",
   "artist": "Muddy Waters",
   "year": "2001",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136827-fe53e95b3d42bfba65bdf63893ac156bda42c4a9.jpg",
   "genre": ["Folk"]
 }, {
   "rating": "39",
   "album": "Please Please Me",
   "artist": "The Beatles",
   "year": "1963",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136828-a98228297da2e4b977752517870aa0f0084a260d.jpg",
   "genre": ["Beat", "Rock & Roll"]
 }, {
   "rating": "40",
   "album": "Forever Changes",
   "artist": "Love",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136829-98c7140da22f3d65f5af7dc59af391d8abd0ee52.jpg",
   "genre": ["Folk Rock", "Psychedelic Rock"]
 }, {
   "rating": "41",
   "album": "Never Mind the Bollocks Here's the Sex Pistols",
   "artist": "Sex Pistols",
   "year": "1977",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136830-ad8c0086034df4e67974c150d0f4f8ec469584eb.jpg",
   "genre": ["Punk"]
 }, {
   "rating": "42",
   "album": "The Doors",
   "artist": "The Doors",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136831-1ea331d7c82fbb8fa7071b77d4f657b109d1c788.jpg",
   "genre": ["Psychedelic Rock"]
 }, {
   "rating": "43",
   "album": "The Dark Side of the Moon",
   "artist": "Pink Floyd",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136832-861c5694612fa245049704a6d3ab31387b19c834.jpg",
   "genre": ["Prog Rock"]
 }, {
   "rating": "44",
   "album": "Horses",
   "artist": "Patti Smith",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136833-e7a996baf4047f8daed97e5f5bd4490fb7c1f697.jpg",
   "genre": ["Art Rock"]
 }, {
   "rating": "45",
   "album": "The Band (\"The Brown Album\")",
   "artist": "The Band",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136834-0ac466eab206d17e99e3329c482993dab1bee18d.jpg",
   "genre": ["Soundtrack", "Modern Classical", "Contemporary", "Score"]
 }, {
   "rating": "46",
   "album": "Legend: The Best of Bob Marley and The Wailers",
   "artist": "Bob Marley & The Wailers",
   "year": "1984",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136835-96be4f1be7b743e59bc37c675556ee33492da56d.jpg",
   "genre": ["Reggae", "Roots Reggae"]
 }, {
   "rating": "47",
   "album": "A Love Supreme",
   "artist": "John Coltrane",
   "year": "1965",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136836-02531855485466bc333d2947a4dd31f2b9f61748.jpg",
   "genre": ["Free Jazz", "Hard Bop", "Modal"]
 }, {
   "rating": "48",
   "album": "It Takes a Nation of Millions to Hold Us Back",
   "artist": "Public Enemy",
   "year": "1988",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136837-0f1f21ff75e649209670aa34b650d8b0f3a7b9ef.jpg",
   "genre": ["Conscious"]
 }, {
   "rating": "49",
   "album": "At Fillmore East",
   "artist": "The Allman Brothers Band",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136838-effe20936e258567d11473ae17e244dac6b208d8.jpg",
   "genre": ["Blues Rock"]
 }, {
   "rating": "50",
   "album": "Here's Little Richard",
   "artist": "Little Richard",
   "year": "1957",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136839-7a68ae240f7399bef642adb1c492ac20ab664b33.jpg",
   "genre": ["Rock & Roll", "Rhythm & Blues"]
 }, {
   "rating": "51",
   "album": "Bridge Over Troubled Water",
   "artist": "Simon & Garfunkel",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136840-0a328443dbf33f1e8724c5223b2d97fca48106c5.jpg",
   "genre": ["Folk Rock", "Classic Rock"]
 }, {
   "rating": "52",
   "album": "Greatest Hits",
   "artist": "Al Green",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136841-e9ed00227a28b80f6c6796798da58c5a6958eec2.jpg",
   "genre": ["Soul"]
 }, {
   "rating": "53",
   "album": "Meet The Beatles!",
   "artist": "The Beatles",
   "year": "1964",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136842-c567aea05a250999e7e2046d49200a11d83d290a.jpg",
   "genre": ["Beat", "Rock & Roll"]
 }, {
   "rating": "54",
   "album": "The Birth of Soul",
   "artist": "Ray Charles",
   "year": "1991",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136843-7a56419fc667671522a7cb18f9a0fd66c0ca04ae.jpg",
   "genre": ["Rhythm & Blues", "Big Band", "Soul", "Soul-Jazz"]
 }, {
   "rating": "55",
   "album": "Electric Ladyland",
   "artist": "The Jimi Hendrix Experience",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136844-876329989fb53101df678baaf238180b18820803.jpg",
   "genre": ["Electric Blues", "Psychedelic Rock"]
 }, {
   "rating": "56",
   "album": "Elvis Presley",
   "artist": "Elvis Presley",
   "year": "1956",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136845-3d96d5d6d9bcbc6282936dc1ffd06578cabebc32.jpg",
   "genre": ["Rock & Roll", "Rockabilly"]
 }, {
   "rating": "57",
   "album": "Songs in the Key of Life",
   "artist": "Stevie Wonder",
   "year": "1976",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136846-1becb7e01d2771e049f1a09ffd58cd77f0e146a2.jpg",
   "genre": ["Soul", "Disco"]
 }, {
   "rating": "58",
   "album": "Beggars Banquet",
   "artist": "The Rolling Stones",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136847-ee1d802faf428f24bfdcf23cead8f5c9797f6ab4.jpg",
   "genre": ["Blues Rock", "Southern Rock", "Classic Rock"]
 }, {
   "rating": "59",
   "album": "Chronicle: The 20 Greatest Hits",
   "artist": "Creedence Clearwater Revival",
   "year": "1976",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136848-c305a673692a96976fce8b404c1bf141b7db621e.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "60",
   "album": "Trout Mask Replica",
   "artist": "Captain Beefheart & His Magic Band",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136849-a4b6f5b0e8e36b7180fdea278755bb4099099d14.jpg",
   "genre": ["Dialogue", "Field Recording", "Avantgarde", "Electric Blues", "Psychedelic Rock", "Experimental"]
 }, {
   "rating": "61",
   "album": "Greatest Hits",
   "artist": "Sly & The Family Stone",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136850-76aa8b1a1fec965275cf1bf6576217d5716f6f0a.jpg",
   "genre": ["Rhythm & Blues", "Funk"]
 }, {
   "rating": "62",
   "album": "Appetite for Destruction",
   "artist": "Guns N' Roses",
   "year": "1987",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136851-4e6da25216527bf930346f52271b6eb2122a716d.jpg",
   "genre": ["Hard Rock", "Heavy Metal"]
 }, {
   "rating": "63",
   "album": "Achtung Baby",
   "artist": "U2",
   "year": "1991",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136852-05c62e826eb9c0ef8fbf3e4e2d807a355efb0c94.jpg",
   "genre": ["Pop Rock", "Synth-pop", "Alternative Rock", "Arena Rock"]
 }, {
   "rating": "64",
   "album": "Sticky Fingers",
   "artist": "The Rolling Stones",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136853-631aebeb7535cea014244f29a3852307841c56bb.jpg",
   "genre": ["Classic Rock"]
 }, {
   "rating": "65",
   "album": "Back to Mono (1958-1969)",
   "artist": "Phil Spector",
   "year": "1991",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136854-e2ebe7062791aa4ff3e0c5d93bf32d2d2a588f40.jpg",
   "genre": ["Doo Wop", "Pop Rock", "Ballad", "Rhythm & Blues"]
 }, {
   "rating": "66",
   "album": "Moondance",
   "artist": "Van Morrison",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136855-62fc0b0d65ef7c2f2a9a37cb66f1051e927bcd50.jpg",
   "genre": ["Folk Rock", "Rhythm & Blues", "Classic Rock", "Contemporary Jazz"]
 }, {
   "rating": "67",
   "album": "Kid A",
   "artist": "Radiohead",
   "year": "2000",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136714-dc5847d14a98590646f38ff1bb045fe6e9523850.jpg",
   "genre": ["Alternative Rock", "IDM", "Experimental"]
 }, {
   "rating": "68",
   "album": "Off the Wall",
   "artist": "Michael Jackson",
   "year": "1979",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136856-8c1e5b0582a5b46fc80e0db97c87f48661e672e8.jpg",
   "genre": ["Disco", "Soul", "Ballad"]
 }, {
   "rating": "69",
   "album": "[Led Zeppelin IV]",
   "artist": "Led Zeppelin",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136857-c4082fd6526f33db9b4e851a72d96784119fd52c.jpg",
   "genre": ["Hard Rock", "Classic Rock", "Blues Rock"]
 }, {
   "rating": "70",
   "album": "The Stranger",
   "artist": "Billy Joel",
   "year": "1977",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136858-ccdc7ef4844eea964e02ab50740e5cd4301a0ae9.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "71",
   "album": "Graceland",
   "artist": "Paul Simon",
   "year": "1986",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136859-2dabb95cffdc9f2d4e37b3157cec36e34b382598.jpg",
   "genre": ["Folk Rock", "Pop Rock", "African", "Afrobeat", "Zydeco", "Funk", "Rhythm & Blues"]
 }, {
   "rating": "72",
   "album": "Superfly",
   "artist": "Curtis Mayfield",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136860-c8bf4bb3309cfafe5b4bddece81a591e52fa2857.jpg",
   "genre": ["Soundtrack", "Soul"]
 }, {
   "rating": "73",
   "album": "Physical Graffiti",
   "artist": "Led Zeppelin",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136861-53a00c2335b36eb447e75ae2387e96b0e6ba6a20.jpg",
   "genre": ["Classic Rock"]
 }, {
   "rating": "74",
   "album": "After the Gold Rush",
   "artist": "Neil Young",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136862-7e03f32e7c9594a706f545a9c8cdd53e260bcafd.jpg",
   "genre": ["Rock & Roll", "Country Rock"]
 }, {
   "rating": "75",
   "album": "Star Time",
   "artist": "James Brown",
   "year": "1991",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136863-a7b2521a515dc36ea56d181cada01ce0a27bbbb4.jpg",
   "genre": ["Soul", "Funk", "Disco"]
 }, {
   "rating": "76",
   "album": "Purple Rain",
   "artist": "Prince and the Revolution",
   "year": "1984",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136864-2dae4591d79f7c29a18496926740d720908e3127.jpg",
   "genre": ["Pop Rock", "Funk", "Soundtrack", "Synth-pop"]
 }, {
   "rating": "77",
   "album": "Back in Black",
   "artist": "AC/DC",
   "year": "1980",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136865-06d9970eddbfbcae66ad664a73c6d52862d91d7c.jpg",
   "genre": ["Hard Rock"]
 }, {
   "rating": "78",
   "album": "Otis Blue: Otis Redding Sings Soul",
   "artist": "Otis Redding",
   "year": "1965",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136866-93f4b651ac369f0603463d0c1a539ab7ccd05241.jpg",
   "genre": ["Soul"]
 }, {
   "rating": "79",
   "album": "Led Zeppelin II",
   "artist": "Led Zeppelin",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136867-cb5312fe6a5648ee4441e580ad904c4600a8d45e.jpg",
   "genre": ["Blues Rock", "Classic Rock", "Hard Rock"]
 }, {
   "rating": "80",
   "album": "Imagine",
   "artist": "John Lennon",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136868-0b79ac312d1402b86d803ab464e58c456277e9fc.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "81",
   "album": "The Clash",
   "artist": "The Clash",
   "year": "1977",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136869-ce67282f913d3d9bc2433f7084a5f5d22bc1f38a.jpg",
   "genre": ["Punk"]
 }, {
   "rating": "82",
   "album": "Harvest",
   "artist": "Neil Young",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136870-ec319af29f5efd5d20d9633f0c535e0151e59a42.jpg",
   "genre": ["Folk Rock", "Country Rock", "Classic Rock"]
 }, {
   "rating": "83",
   "album": "Axis: Bold as Love",
   "artist": "The Jimi Hendrix Experience",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136871-8bd73526cc9968e358761e26e4fe42c641910802.jpg",
   "genre": ["Psychedelic Rock", "Electric Blues"]
 }, {
   "rating": "84",
   "album": "I Never Loved a Man the Way I Love You",
   "artist": "Aretha Franklin",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136890-2ae6552932d20ce4bdc5c361c7f57797c8ba2217.jpg",
   "genre": ["Soul"]
 }, {
   "rating": "85",
   "album": "Lady Soul",
   "artist": "Aretha Franklin",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136891-434330e80536d2bb420ca5ff91a6ed24651f0e69.jpg",
   "genre": ["Soul"]
 }, {
   "rating": "86",
   "album": "Born in the U.S.A.",
   "artist": "Bruce Springsteen",
   "year": "1984",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136893-942105f84afcbf3168dd9c0ad83f5130b368af82.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "87",
   "album": "The Wall",
   "artist": "Pink Floyd",
   "year": "1979",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136895-f4449616e18127542ce4b5534585068d30a10201.jpg",
   "genre": ["Alternative Rock", "Prog Rock"]
 }, {
   "rating": "88",
   "album": "At Folsom Prison",
   "artist": "Johnny Cash",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136897-af22084dc4088905a4eb9afab73bb7efc9ce780b.jpg",
   "genre": ["Country"]
 }, {
   "rating": "89",
   "album": "Dusty in Memphis",
   "artist": "Dusty Springfield",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136898-d40f4d4da2d9d7a419717c8344f1444281c98dc5.jpg",
   "genre": ["Pop Rock", "Soul"]
 }, {
   "rating": "90",
   "album": "Talking Book",
   "artist": "Stevie Wonder",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-stevie-wonder-50728d4d-55cb-4812-aa33-191f340866f1.jpg",
   "genre": ["Soul", "Funk"]
 }, {
   "rating": "91",
   "album": "Goodbye Yellow Brick Road",
   "artist": "Elton John",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136900-62a6bb35e40a1315bcdb5a541492bc93fc3a7cfb.jpg",
   "genre": ["Pop Rock", "Classic Rock"]
 }, {
   "rating": "92",
   "album": "20 Golden Greats",
   "artist": "Buddy Holly",
   "year": "1978",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136901-a8a3f78f4dc628cd1451f8c5e38979d097e59fb5.jpg",
   "genre": ["Rock & Roll"]
 }, {
   "rating": "93",
   "album": "Sign \"Peace\" the Times",
   "artist": "Prince",
   "year": "1987",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136903-ffe7f8ac37e7fd481d268c3109ce8ade62f4e1d4.jpg",
   "genre": ["Ska", "Reggae-Pop"]
 }, {
   "rating": "94",
   "album": "40 Greatest Hits",
   "artist": "Hank Williams",
   "year": "1984",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136904-9a14d7c339541e7fa0f9218a21a873e83ae3fece.jpg",
   "genre": ["Country"]
 }, {
   "rating": "95",
   "album": "Bitches Brew",
   "artist": "Miles Davis",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136905-1aa850852a50d38f55ae0b0c688b2d4f4403c70b.jpg",
   "genre": ["Fusion"]
 }, {
   "rating": "96",
   "album": "Tommy",
   "artist": "The Who",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136907-70195a5c116bff799265d42788bc73ca1fbfe622.jpg",
   "genre": ["Psychedelic Rock"]
 }, {
   "rating": "97",
   "album": "The Freewheelin' Bob Dylan",
   "artist": "Bob Dylan",
   "year": "1963",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136908-8e33d65973df4e70e8fbf8bd0dbdaace59293e68.jpg",
   "genre": ["Folk"]
 }, {
   "rating": "98",
   "album": "This Year's Model",
   "artist": "Elvis Costello",
   "year": "1978",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136909-b1c40d0c34e89fa14f600ba775f425e52bd08224.jpg",
   "genre": ["New Wave"]
 }, {
   "rating": "99",
   "album": "There's a Riot Goin' On",
   "artist": "Sly & The Family Stone",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136910-c11fbdd3d1d1efe83f84ba5ea1ae7ceb24d1928d.jpg",
   "genre": ["Rhythm & Blues", "Funk"]
 }, {
   "rating": "100",
   "album": "Odessey and Oracle",
   "artist": "The Zombies",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136911-4e049f07b395009537a0950b9ad5c9463042a78f.jpg",
   "genre": ["Psychedelic Rock"]
 }, {
   "rating": "101",
   "album": "In the Wee Small Hours",
   "artist": "Frank Sinatra",
   "year": "1955",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136912-66b38c578b55322f778406517690732daecca182.jpg",
   "genre": ["Big Band", "Ballad"]
 }, {
   "rating": "102",
   "album": "Fresh Cream",
   "artist": "Cream",
   "year": "1966",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136913-981c4b5aafd4f3e359c1a4db0edefc18580e1317.jpg",
   "genre": ["Blues Rock", "Electric Blues"]
 }, {
   "rating": "103",
   "album": "Giant Steps",
   "artist": "John Coltrane",
   "year": "1959",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136914-a70d84fe2a3b2f41f446397a357d3abbbe9bb4a1.jpg",
   "genre": ["Hard Bop"]
 }, {
   "rating": "104",
   "album": "Sweet Baby James",
   "artist": "James Taylor",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136915-500a68798b57abe3376e3309db498e1561846fd7.jpg",
   "genre": ["Folk Rock", "Acoustic", "Soft Rock"]
 }, {
   "rating": "105",
   "album": "Modern Sounds in Country and Western Music",
   "artist": "Ray Charles",
   "year": "1962",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136916-ae787c41341d7da5bf9200bf626eb37cadcdc153.jpg",
   "genre": ["Country", "Rhythm & Blues"]
 }, {
   "rating": "106",
   "album": "Rocket to Russia",
   "artist": "Ramones",
   "year": "1977",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136917-e2d4cb96825747e05cef632168acc0f7d15133cf.jpg",
   "genre": ["Rock & Roll", "Punk"]
 }, {
   "rating": "107",
   "album": "Portrait of a Legend 1951-1964",
   "artist": "Sam Cooke",
   "year": "2003",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136918-232ae686660178f6470d997bbd116d2b0bfb496d.jpg",
   "genre": ["Soul", "Rhythm & Blues", "Gospel", "Cha-Cha"]
 }, {
   "rating": "108",
   "album": "Hunky Dory",
   "artist": "David Bowie",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136919-d1e8785e80fdff5251025f3b639ac3a74faef5a9.jpg",
   "genre": ["Classic Rock", "Glam"]
 }, {
   "rating": "109",
   "album": "Aftermath",
   "artist": "The Rolling Stones",
   "year": "1966",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136920-7241fdf3c9872428a8b9dcbe5e44d4b5e0113f13.jpg",
   "genre": ["Blues Rock", "Pop Rock"]
 }, {
   "rating": "110",
   "album": "Loaded",
   "artist": "The Velvet Underground",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136921-2f318fd6b97e0844a1246f079709718388025c6b.jpg",
   "genre": ["Art Rock", "Classic Rock"]
 }, {
   "rating": "111",
   "album": "The Bends",
   "artist": "Radiohead",
   "year": "1995",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136922-ade473553eca8fd0931d1267c4c5304e1b7b2b91.jpg",
   "genre": ["Alternative Rock"]
 }, {
   "rating": "112",
   "album": "If You Can Believe Your Eyes and Ears",
   "artist": "The Mamas and the Papas",
   "year": "1966",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136923-0a7d9f94defe0b8483b04211500547df08eb9336.jpg",
   "genre": ["Folk Rock", "Pop Rock"]
 }, {
   "rating": "113",
   "album": "Court and Spark",
   "artist": "Joni Mitchell",
   "year": "1974",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136924-b3bc278a848e93f60c50e3ae4394606fa727a3fd.jpg",
   "genre": ["Soft Rock", "Pop Rock"]
 }, {
   "rating": "114",
   "album": "Disraeli Gears",
   "artist": "Cream",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136925-6fb81add58786303921950c76af20b09c499b7ae.jpg",
   "genre": ["Psychedelic Rock", "Blues Rock"]
 }, {
   "rating": "115",
   "album": "The Who Sell Out",
   "artist": "The Who",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136926-32aad95405f335c71ece94145ecba72ddb6a3224.jpg",
   "genre": ["Psychedelic Rock", "Mod"]
 }, {
   "rating": "116",
   "album": "Out of Our Heads",
   "artist": "The Rolling Stones",
   "year": "1965",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136927-2c801a57639a6568f50b90326f47666c3353a3f1.jpg",
   "genre": ["Blues Rock", "Rock & Roll"]
 }, {
   "rating": "117",
   "album": "Layla and Other Assorted Love Songs",
   "artist": "Derek and the Dominos",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136928-42edaac7d4afb0bfd51e3d394f2ad20e17cc65ca.jpg",
   "genre": ["Blues Rock"]
 }, {
   "rating": "118",
   "album": "Late Registration",
   "artist": "Kanye West",
   "year": "2005",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136929-520fc83abbdd1d1611981bdf3b1bbda188a57842.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "119",
   "album": "At Last!",
   "artist": "Etta James",
   "year": "1960",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136930-c0078c0893f748597681f424bf33738dcdd55352.jpg",
   "genre": ["Rhythm & Blues", "Soul"]
 }, {
   "rating": "120",
   "album": "Sweetheart of the Rodeo",
   "artist": "The Byrds",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136931-d92f6b1f408047f947dd0ea5d9f9f1c88f314e13.jpg",
   "genre": ["Folk Rock", "Country Rock"]
 }, {
   "rating": "121",
   "album": "Stand!",
   "artist": "Sly & The Family Stone",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136932-32d46af59a4ead4a6277252c340e54357a55fef4.jpg",
   "genre": ["Funk", "Psychedelic", "Disco"]
 }, {
   "rating": "122",
   "album": "The Harder They Come",
   "artist": "Various Artists",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136933-dbecb9848670f38dc1dc0960f993b5a045fa41f5.jpg",
   "genre": ["Reggae", "Roots Reggae", "Rocksteady", "Contemporary", "Soundtrack"]
 }, {
   "rating": "123",
   "album": "Raising Hell",
   "artist": "Run D.M.C.",
   "year": "1986",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136934-afbfe0e975813f14225b847c2406727305921cec.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "124",
   "album": "Moby Grape",
   "artist": "Moby Grape",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136935-1b27a1b9aa49d21d6b8f9d5d3aafb469bbf47031.jpg",
   "genre": ["Folk Rock", "Psychedelic Rock"]
 }, {
   "rating": "125",
   "album": "Pearl",
   "artist": "Janis Joplin",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136936-3f4d3c4bde8c7ca887b4440bc6e59062b7e627e7.jpg",
   "genre": ["Blues Rock"]
 }, {
   "rating": "126",
   "album": "Catch a Fire",
   "artist": "The Wailers",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136937-b7c87eeaf5e4b89b33984871df9258bd6568b088.jpg",
   "genre": ["Roots Reggae"]
 }, {
   "rating": "127",
   "album": "Younger Than Yesterday",
   "artist": "The Byrds",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136938-8e43f465b606df2225800a6332f920afc4882997.jpg",
   "genre": ["Folk Rock", "Psychedelic Rock"]
 }, {
   "rating": "128",
   "album": "Raw Power",
   "artist": "Iggy and The Stooges",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136939-d119fb2e68a8714a8539f3bab3d6ce80c385cbd0.jpg",
   "genre": ["Garage Rock", "Hard Rock", "Punk"]
 }, {
   "rating": "129",
   "album": "Remain in Light",
   "artist": "Talking Heads",
   "year": "1980",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136940-5e82a123eb478e5e075fca70395841a15c42cbd9.jpg",
   "genre": ["New Wave", "Art Rock", "Funk"]
 }, {
   "rating": "130",
   "album": "Marquee Moon",
   "artist": "Television",
   "year": "1977",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136945-496f60e7abeaaa10781d8ed0937bdd14e132fa89.jpg",
   "genre": ["New Wave", "Punk"]
 }, {
   "rating": "131",
   "album": "Paranoid",
   "artist": "Black Sabbath",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136947-a30d2ee6659f73b96bf8bee257f2afaf1436bb63.jpg",
   "genre": ["Hard Rock", "Heavy Metal"]
 }, {
   "rating": "132",
   "album": "Saturday Night Fever: The Original Movie Sound Track",
   "artist": "Various Artists",
   "year": "1977",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136948-5ab24eca30e6533f552c8839c217e6643541b91d.jpg",
   "genre": ["Soundtrack", "Disco"]
 }, {
   "rating": "133",
   "album": "The Wild, the Innocent & the E Street Shuffle",
   "artist": "Bruce Springsteen",
   "year": "1973",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136950-5c1389223a1bbcaf57bee307144fb925785336b7.jpg",
+  "genre": ["Rock & Roll"]
 }, {
   "rating": "134",
   "album": "Ready to Die",
   "artist": "The Notorious B.I.G.",
   "year": "1994",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136952-c8b83cb3c7734857e0da090c7c1862b6e043e3af.jpg",
   "genre": ["Thug Rap"]
 }, {
   "rating": "135",
   "album": "Slanted and Enchanted",
   "artist": "Pavement",
   "year": "1992",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136956-0d2d43a0fd06acf874ba237df24fa9c3678f9ec5.jpg",
   "genre": ["Alternative Rock"]
 }, {
   "rating": "136",
   "album": "Greatest Hits",
   "artist": "Elton John",
   "year": "1974",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136957-b9dbb58356493c95cc471a2e2d69f0bd80f16868.jpg",
   "genre": ["Classic Rock"]
 }, {
   "rating": "137",
   "album": "Tim",
   "artist": "The Replacements",
   "year": "1985",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136958-fca34fadbbafc4a556232a5d7a249f717ab70b8b.jpg",
   "genre": ["Indie Rock"]
 }, {
   "rating": "138",
   "album": "The Chronic",
   "artist": "Dr. Dre",
   "year": "1992",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136960-cd9cdff34a0d80df7074d683c5b266b910b8096c.jpg",
   "genre": ["Gangsta"]
 }, {
   "rating": "139",
   "album": "Rejuvenation",
   "artist": "The Meters",
   "year": "1974",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136961-21e5174fa655499d6090b35ba8a1a98428afb8be.jpg",
   "genre": ["Bayou Funk", "Soul"]
 }, {
   "rating": "140",
   "album": "Parallel Lines",
   "artist": "Blondie",
   "year": "1978",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136962-5c8611e46309aa38800a1743947341dea1c582bb.jpg",
   "genre": ["New Wave", "Pop Rock", "Punk", "Disco"]
 }, {
   "rating": "141",
   "album": "Live at the Regal",
   "artist": "B.B. King",
   "year": "1965",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136964-44c7484e5e780cc4f367838b07e04615432d3e16.jpg",
   "genre": ["Chicago Blues"]
 }, {
   "rating": "142",
   "album": "A Christmas Gift for You From Phil Spector",
   "artist": "Phil Spector",
   "year": "1963",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136966-c436d4eb58194c861107475b35e599e63ef5cf23.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "143",
   "album": "Gris-Gris",
   "artist": "Dr. John, the Night Tripper",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136968-3ef238fae7224a7c17198eb85a102889020ce202.jpg",
   "genre": ["Soul-Jazz", "Louisiana Blues", "Fusion", "Bayou Funk"]
 }, {
   "rating": "144",
   "album": "Straight Outta Compton",
   "artist": "N.W.A",
   "year": "1988",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136970-ac105c4e3e6a73f6289579b17b7a17f84b127f48.jpg",
   "genre": ["Gangsta"]
 }, {
   "rating": "145",
   "album": "Aja",
   "artist": "Steely Dan",
   "year": "1977",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136972-adca3ede95e7cbe50e9c06c660b940632827ec56.jpg",
   "genre": ["Jazz-Rock", "Classic Rock"]
 }, {
   "rating": "146",
   "album": "Surrealistic Pillow",
   "artist": "Jefferson Airplane",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136973-c95d17d91b5bb68e83bc51ce3461537b8e9e9645.jpg",
   "genre": ["Folk Rock", "Psychedelic Rock"]
 }, {
   "rating": "147",
   "album": "Deja vu",
   "artist": "Crosby, Stills, Nash & Young",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136974-a269b69452cce5e2da99c774b99f482a2e2b9bc5.jpg",
   "genre": ["Classic Rock"]
 }, {
   "rating": "148",
   "album": "Houses of the Holy",
   "artist": "Led Zeppelin",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137067-641116c1e4684ff5d9e7388111c81e45a38d6e23.jpg",
   "genre": ["Classic Rock"]
 }, {
   "rating": "149",
   "album": "Santana",
   "artist": "Santana",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136977-f8de33bd808ef6916df5f600d1b531c4183a24b8.jpg",
   "genre": ["Afro-Cuban", "Psychedelic Rock"]
 }, {
   "rating": "150",
   "album": "Darkness on the Edge of Town",
   "artist": "Bruce Springsteen",
   "year": "1978",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136979-bace58ad06cfbbb2807f088520db227434da0055.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "151",
   "album": "Funeral",
   "artist": "Arcade Fire",
   "year": "2004",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136980-5343d2b30b06e311af390a3829caf34d135d376f.jpg",
   "genre": ["Indie Rock"]
 }, {
   "rating": "152",
   "album": "The B 52's / Play Loud",
   "artist": "The B 52's",
   "year": "1979",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136983-7a6f091f8960439498a814bf708c863f9d50fc4b.jpg",
   "genre": ["New Wave", "Punk", "Mod"]
 }, {
   "rating": "153",
   "album": "The Low End Theory",
   "artist": "A Tribe Called Quest",
   "year": "1991",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136986-4f01e5c3e610dd7203a79b40c8473bec50fac412.jpg",
   "genre": ["Conscious"]
 }, {
   "rating": "154",
   "album": "Moanin' in the Moonlight",
   "artist": "Howlin' Wolf",
   "year": "1958",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136988-add682f521b995c3a37cd1a63f8de6d9ed76cdee.jpg",
   "genre": ["Chicago Blues"]
 }, {
   "rating": "155",
   "album": "Pretenders",
   "artist": "Pretenders",
   "year": "1980",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136990-4c2a4e14a210f722f564828d1283cbb5edfb8937.jpg",
   "genre": ["Alternative Rock", "New Wave"]
 }, {
   "rating": "156",
   "album": "Paul's Boutique",
   "artist": "Beastie Boys",
   "year": "1989",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136992-d1b604b7c3629c94ea412bd54a9a9ef2df0c60d5.jpg",
   "genre": ["Alternative Rock", "Pop Rap", "Psychedelic"]
 }, {
   "rating": "157",
   "album": "Closer",
   "artist": "Joy Division",
   "year": "1980",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136993-dbd6ecb3421a67a4cdc2411ea62f1dda9ae1524f.jpg",
   "genre": ["Post-Punk", "New Wave"]
 }, {
   "rating": "158",
   "album": "Captain Fantastic and the Brown Dirt Cowboy",
   "artist": "Elton John",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136994-ec7bcffc88dd8cf9e62108eb1d4572e187180e13.jpg",
   "genre": ["Pop Rock", "Classic Rock"]
 }, {
   "rating": "159",
   "album": "Alive!",
   "artist": "KISS",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136995-e176bd50a0dbe730c390f3e918371b9337c34c42.jpg",
   "genre": ["Hard Rock", "Glam"]
 }, {
   "rating": "160",
   "album": "Electric Warrior",
   "artist": "T. Rex",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136996-03ea80b452a2ff1119b77ae12163240dee8128a3.jpg",
   "genre": ["Glam", "Classic Rock"]
 }, {
   "rating": "161",
   "album": "The Dock of the Bay",
   "artist": "Otis Redding",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136997-a66d2173f0da4ba69a1614b7642468abdc151b69.jpg",
   "genre": ["Rhythm & Blues", "Soul"]
 }, {
   "rating": "162",
   "album": "OK Computer",
   "artist": "Radiohead",
   "year": "1997",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136998-89fbef0a78eb3ca4cd34933c7b87ce21980a0a76.jpg",
   "genre": ["Alternative Rock"]
 }, {
   "rating": "163",
   "album": "1999",
   "artist": "Prince",
   "year": "1982",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136999-fc7ea1216fedc9d712bb18b7a1b1fa3f94b81ee1.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "164",
   "album": "The Very Best of Linda Ronstadt",
   "artist": "Linda Ronstadt",
   "year": "2002",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137000-6998c82d0b50b7cb6920512f4dd4bd41bdfd380d.jpg",
   "genre": ["Soft Rock", "Pop Rock"]
 }, {
   "rating": "165",
   "album": "Let's Get It On",
   "artist": "Marvin Gaye",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137001-ea2dbb71c177de9aaa11ecc2a03c190c1e3f960c.jpg",
   "genre": ["Soul"]
 }, {
   "rating": "166",
   "album": "Imperial Bedroom",
   "artist": "Elvis Costello & The Attractions",
   "year": "1982",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137002-7f164cbcaf8beb57da58539db514d3cddb2151c8.jpg",
   "genre": ["Alternative Rock", "New Wave"]
 }, {
   "rating": "167",
   "album": "Master of Puppets",
   "artist": "Metallica",
   "year": "1986",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137003-3e0b377899b1e58701ea6a80c0e4225d0a2b2eb7.jpg",
   "genre": ["Thrash", "Speed Metal"]
 }, {
   "rating": "168",
   "album": "My Aim Is True",
   "artist": "Elvis Costello",
   "year": "1977",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137004-20986a045e5f7266ee13b1db2109c8dab4aa445a.jpg",
   "genre": ["New Wave", "Pop Rock"]
 }, {
   "rating": "169",
   "album": "Exodus",
   "artist": "Bob Marley & The Wailers",
   "year": "1977",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137005-8d7182b68d355cd094f49438fc03c2e0c8fa6d95.jpg",
   "genre": ["Reggae", "Roots Reggae"]
 }, {
   "rating": "170",
   "album": "Live at Leeds",
   "artist": "The Who",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137006-e1ce35e0d71564006aba92cb207f464ceb05f0e6.jpg",
   "genre": ["Classic Rock", "Blues Rock", "Hard Rock"]
 }, {
   "rating": "171",
   "album": "The Notorious Byrd Brothers",
   "artist": "The Byrds",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137007-f2f8eab73c27a5aee6945f783d85ff0f45f7cf95.jpg",
   "genre": ["Psychedelic Rock", "Folk Rock", "Country Rock", "Pop Rock"]
 }, {
   "rating": "172",
   "album": "Every Picture Tells a Story",
   "artist": "Rod Stewart",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137008-3aff0ca6dcb9e1514ed531f344123ef903f08df9.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "173",
   "album": "Something/Anything?",
   "artist": "Todd Rundgren",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137009-cdbd58d4ba8bce384d4289bacd656033e44f8291.jpg",
   "genre": ["Power Pop", "Pop Rock", "Prog Rock"]
 }, {
   "rating": "174",
   "album": "Desire",
   "artist": "Bob Dylan",
   "year": "1976",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137010-ab8670ecec420e5b91896c22d1b767f91c076f9e.jpg",
   "genre": ["Folk Rock"]
 }, {
   "rating": "175",
   "album": "Close to You",
   "artist": "Carpenters",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137068-826f397847f039ba624bb3caf1f54cad76506172.jpg",
   "genre": ["Pop Rock", "Vocal"]
 }, {
   "rating": "176",
   "album": "Rocks",
   "artist": "Aerosmith",
   "year": "1976",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137069-ed3f8f0c0cc2c464043de047797ddf657deb565c.jpg",
   "genre": ["Hard Rock", "Classic Rock"]
 }, {
   "rating": "177",
   "album": "One Nation Under a Groove",
   "artist": "Funkadelic",
   "year": "1978",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137070-fc31c04cba57f0ec09d6c691cfd918f40cc13f1e.jpg",
   "genre": ["P.Funk"]
 }, {
   "rating": "178",
   "album": "The Anthology: 1961-1977",
   "artist": "Curtis Mayfield and The Impressions",
   "year": "1992",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137071-2f8ddd2b510fd607e58385da76eafb58876f50e9.jpg",
   "genre": ["Rhythm & Blues", "Soul", "Funk"]
 }, {
   "rating": "179",
   "album": "The Definitive Collection",
   "artist": "ABBA",
   "year": "2001",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137072-9648298a147c9ddfe65d5a196beb92223816ebd5.jpg",
   "genre": ["Europop", "Synth-pop", "Disco"]
 }, {
   "rating": "180",
   "album": "The Rolling Stones, Now!",
   "artist": "The Rolling Stones",
   "year": "1965",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137073-f3c63567387f2cea2fc6aaa764ba98ccf63a3962.jpg",
   "genre": ["Pop Rock", "Rhythm & Blues", "Rock & Roll"]
 }, {
   "rating": "181",
   "album": "Natty Dread",
   "artist": "Bob Marley & The Wailers",
   "year": "1974",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137074-7fec3e453c2fffb0e8de364d17a3910b655efc63.jpg",
   "genre": ["Reggae", "Roots Reggae"]
 }, {
   "rating": "182",
   "album": "Fleetwood Mac",
   "artist": "Fleetwood Mac",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137075-2fa87cff28334ae1dc3b123239844e0de7df7e6f.jpg",
   "genre": ["Folk Rock", "Pop Rock"]
 }, {
   "rating": "183",
   "album": "Red Headed Stranger",
   "artist": "Willie Nelson",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137076-1c7a3ec602053fb3d9dd9f543b6b0c3ed405464a.jpg",
   "genre": ["Country"]
 }, {
   "rating": "184",
   "album": "The Immaculate Collection",
   "artist": "Madonna",
   "year": "1990",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137077-f36997c31775158de4d2177a604e7b40c14dad97.jpg",
   "genre": ["Synth-pop"]
 }, {
   "rating": "185",
   "album": "The Stooges",
   "artist": "The Stooges",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137078-c7d3159a43ea8f8dd5dc1606db030325f157d95a.jpg",
   "genre": ["Garage Rock", "Punk"]
 }, {
   "rating": "186",
   "album": "Fresh",
   "artist": "Sly & The Family Stone",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137079-51029f1f69c6cf97a9723fa2364cfa48969b6266.jpg",
   "genre": ["Rhythm & Blues", "Funk"]
 }, {
   "rating": "187",
   "album": "So",
   "artist": "Peter Gabriel",
   "year": "1986",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137080-c514c0ee0516ee5c8c4c2be8ec3c7b127d9ac4b0.jpg",
   "genre": ["Art Rock", "Pop Rock", "Synth-pop", "Funk"]
 }, {
   "rating": "188",
   "album": "Buffalo Springfield Again",
   "artist": "Buffalo Springfield",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137081-f237e262cb972b3c83464d81a2025a2fdf02c583.jpg",
   "genre": ["Country Rock"]
 }, {
   "rating": "189",
   "album": "Happy Trails",
   "artist": "Quicksilver Messenger Service",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137189-2aa18d0ae7b3279f15347ce7e2f00b7c051bc14e.jpg",
   "genre": ["Acid Rock", "Psychedelic Rock"]
 }, {
   "rating": "190",
   "album": "From Elvis in Memphis",
   "artist": "Elvis Presley",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137190-5edf00a082efe3ef23c1385bc10079a82d268c75.jpg",
   "genre": ["Country", "Soul"]
 }, {
   "rating": "191",
   "album": "Fun House",
   "artist": "The Stooges",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137191-72ab0de08f21bb55ef5f4dff665cf842cab0b3ac.jpg",
   "genre": ["Garage Rock", "Punk"]
 }, {
   "rating": "192",
   "album": "The Gilded Palace of Sin",
   "artist": "The Flying Burrito Brothers",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137192-f6d253766c32fd44f7f17737334e6b32a92a8e50.jpg",
   "genre": ["Country Rock"]
 }, {
   "rating": "193",
   "album": "Dookie",
   "artist": "Green Day",
   "year": "1994",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137193-1a86a16c15d4687ce36f84aee7ba5a42fa75ccb6.jpg",
   "genre": ["Alternative Rock", "Pop Punk", "Punk"]
 }, {
   "rating": "194",
   "album": "Transformer",
   "artist": "Lou Reed",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137194-b382fe62cef6d8fa7a57f04bf89413db4c5de90e.jpg",
   "genre": ["Glam"]
 }, {
   "rating": "195",
   "album": "Blues Breakers With Eric Clapton (\"The Beano Album\")",
   "artist": "John Mayall & The Bluesbreakers",
   "year": "1966",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137195-7f5ad31d9aa00cfbd3d73742a2acaaaf63949163.jpg",
   "genre": ["Blues Rock", "Electric Blues", "Harmonica Blues"]
 }, {
   "rating": "196",
   "album": "Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968",
   "artist": "Various Artists",
   "year": "1998",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137196-5cab807202a546622c0d7cfb5c0c969ed1ef287a.jpg",
   "genre": ["Garage Rock", "Psychedelic Rock"]
 }, {
   "rating": "197",
   "album": "Murmur",
   "artist": "R.E.M.",
   "year": "1983",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137197-30aaeebf53eda57967c29512e6448d02ea6bdab8.jpg",
   "genre": ["Alternative Rock"]
 }, {
   "rating": "198",
   "album": "The Best of Little Walter",
   "artist": "Little Walter",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137198-ad523efecbf62caaf2a5d82e0a311ad3337a77f9.jpg",
   "genre": ["Chicago Blues"]
 }, {
   "rating": "199",
   "album": "Is This It",
   "artist": "The Strokes",
   "year": "2001",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136763-5c9c3c6f4f8da14e4e6bf24a4f0a522618eb15e0.jpg",
   "genre": ["Indie Rock"]
 }, {
   "rating": "200",
   "album": "Highway to Hell",
   "artist": "AC/DC",
   "year": "1979",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137199-5ad7acae2ccc56922fc6b6711ac703caf706aab3.jpg",
   "genre": ["Hard Rock"]
 }, {
   "rating": "201",
   "album": "The Downward Spiral",
   "artist": "Nine Inch Nails",
   "year": "1994",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137200-9d6e9604c257bcc20d49ffc9548cd63a9199ee3f.jpg",
   "genre": ["Industrial"]
 }, {
   "rating": "202",
   "album": "Parsley, Sage, Rosemary and Thyme",
   "artist": "Simon & Garfunkel",
   "year": "1966",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137201-9759a4cb99234a160cf217e4b279e3d5ce27e82e.jpg",
   "genre": ["Folk Rock", "Pop Rock"]
 }, {
   "rating": "203",
   "album": "Bad",
   "artist": "Michael Jackson",
   "year": "1987",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137202-a97b2991a5a2ae92ea3b798b24a32fb81d63d388.jpg",
   "genre": ["Pop Rock", "Ballad", "Funk", "Soul"]
 }, {
   "rating": "204",
   "album": "Modern Times",
   "artist": "Bob Dylan",
   "year": "2006",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137203-2cad69129f7e060e4f879af2421ae1df7531144d.jpg",
   "genre": ["Blues Rock", "Folk Rock"]
 }, {
   "rating": "205",
   "album": "Wheels of Fire",
   "artist": "Cream",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137204-df0dc3068da42efa2b8933d40c4558eea7ffc7be.jpg",
   "genre": ["Blues Rock", "Psychedelic Rock", "Classic Rock"]
 }, {
   "rating": "206",
   "album": "Dirty Mind",
   "artist": "Prince",
   "year": "1980",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137205-c968ace333b274deeed7e7652b22181e5ee3c798.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "207",
   "album": "Abraxas",
   "artist": "Santana",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137206-c9c34c7d8f0c291ca067506a3d8baecc89274a77.jpg",
   "genre": ["Fusion", "Hard Rock", "Psychedelic Rock"]
 }, {
   "rating": "208",
   "album": "Tea for the Tillerman",
   "artist": "Cat Stevens",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137207-42563253e6ef248fca9b0bc4cc928083538231af.jpg",
   "genre": ["Folk Rock", "Pop Rock"]
 }, {
   "rating": "209",
   "album": "Ten",
   "artist": "Pearl Jam",
   "year": "1991",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137208-57cc70aef9c387904d3f9e0492979c9bf4938a73.jpg",
   "genre": ["Grunge"]
 }, {
   "rating": "210",
   "album": "Everybody Knows This Is Nowhere",
   "artist": "Neil Young & Crazy Horse",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137209-98b310386437c0cced4f0b63108501c26f7b5973.jpg",
   "genre": ["Folk Rock", "Country Rock", "Classic Rock"]
 }, {
   "rating": "211",
   "album": "Wish You Were Here",
   "artist": "Pink Floyd",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137210-5616923efa1a95975da080a67752021ac1b8aaea.jpg",
   "genre": ["Classic Rock", "Prog Rock"]
 }, {
   "rating": "212",
   "album": "Crooked Rain Crooked Rain",
   "artist": "Pavement",
   "year": "1994",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137211-822fa826c6df519feb25c36853bd0a7badcea999.jpg",
   "genre": ["Alternative Rock", "Indie Rock"]
 }, {
   "rating": "213",
   "album": "Tattoo You",
   "artist": "The Rolling Stones",
   "year": "1981",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137188-1328aa8bc9d4eb484d1453db939bd6dc42b11af6.jpg",
   "genre": ["Classic Rock"]
 }, {
   "rating": "214",
   "album": "Proud Mary: The Best of Ike and Tina Turner",
   "artist": "Ike & Tina Turner",
   "year": "1991",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137187-c0513b6c65f222b951c5e7028339d2c8c5ba850d.jpg",
   "genre": ["Rhythm & Blues", "Bayou Funk", "Soul"]
 }, {
   "rating": "215",
   "album": "New York Dolls",
   "artist": "New York Dolls",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137186-e50229cead5e19d8fa5f801017371d065ebf622a.jpg",
   "genre": ["Glam"]
 }, {
   "rating": "216",
   "album": "Bo Diddley / Go Bo Diddley",
   "artist": "Bo Diddley",
   "year": "1986",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137185-23a6886ba0ebb4d79673624c6afd739520399e6d.jpg",
   "genre": ["Rhythm & Blues", "Rock & Roll"]
 }, {
   "rating": "217",
   "album": "Two Steps From the Blues",
   "artist": "Bobby \"Blue\" Bland",
   "year": "1961",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137184-b808d4745b09589397a0dc0af138173999a0043c.jpg",
   "genre": ["Rhythm & Blues", "Soul"]
 }, {
   "rating": "218",
   "album": "The Queen Is Dead",
   "artist": "The Smiths",
   "year": "1986",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137183-c4e71e16346110ed60d7a40efbc970336cb4a81b.jpg",
   "genre": ["Indie Rock"]
 }, {
   "rating": "219",
   "album": "Licensed to Ill",
   "artist": "Beastie Boys",
   "year": "1986",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137182-be2aada48a74d440667291a694c0e66626e2e849.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "220",
   "album": "Look-Ka Py Py",
   "artist": "The Meters",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137181-39218fdb60c61789aa0f41a23a3141db7a817b48.jpg",
   "genre": ["Bayou Funk", "Soul", "Funk"]
 }, {
   "rating": "221",
   "album": "Loveless",
   "artist": "My Bloody Valentine",
   "year": "1991",
+  "artwork_url": "http://img.wennermedia.com/660-width/my-bloody-valentine-loveless-cover-3e79b904-6e0d-4a74-ad82-28a6afa8f858.jpg",
   "genre": ["Alternative Rock", "Shoegaze"]
 }, {
   "rating": "222",
   "album": "New Orleans Piano",
   "artist": "Professor Longhair",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137179-8d44944bbcc158675cde8148e3830d8fe3b0f40d.jpg",
   "genre": ["Piano Blues"]
 }, {
   "rating": "223",
   "album": "War",
   "artist": "U2",
   "year": "1983",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137178-88deed8e0c556bcd1f11b03f5fe955b2745cd539.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "224",
   "album": "The Neil Diamond Collection",
   "artist": "Neil Diamond",
   "year": "1999",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137177-9a6f9cc6718608142dc7ed89d21d4fee3cd64c2e.jpg",
   "genre": ["Soft Rock", "Ballad"]
 }, {
   "rating": "225",
   "album": "American Idiot",
   "artist": "Green Day",
   "year": "2004",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137176-f4d84a32a2d245213e1d10336ff92436358c501e.jpg",
   "genre": ["Pop Rock", "Punk"]
 }, {
   "rating": "226",
   "album": "Nebraska",
   "artist": "Bruce Springsteen",
   "year": "1982",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137175-3aa14a4e1021a9f5ce6ddab868dc132d5a2f2b33.jpg",
   "genre": ["Acoustic"]
 }, {
   "rating": "227",
   "album": "Doolittle",
   "artist": "Pixies",
   "year": "1989",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137174-696d41503fd5713db781bb51bbcd5f2e323b0044.jpg",
   "genre": ["Indie Rock"]
 }, {
   "rating": "228",
   "album": "Paid in Full",
   "artist": "Eric B. & Rakim",
   "year": "1987",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137173-0ca495502e690095dca8623f3694d1b5c57cf09c.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "229",
   "album": "Toys in the Attic",
   "artist": "Aerosmith",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137172-deabd8133b00f4b6fa41e24210c16823302ec03d.jpg",
   "genre": ["Hard Rock", "Blues Rock"]
 }, {
   "rating": "230",
   "album": "Nick of Time",
   "artist": "Bonnie Raitt",
   "year": "1989",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137171-cf1ad16e8540d7d7d8583179a1630bf20aeb5e41.jpg",
   "genre": ["Blues Rock", "Pop Rock"]
 }, {
   "rating": "231",
   "album": "A Night at the Opera",
   "artist": "Queen",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137170-a06e502b76d71130a7c2802037590b01519505a2.jpg",
   "genre": ["Hard Rock", "Pop Rock", "Prog Rock"]
 }, {
   "rating": "232",
   "album": "The Kink Kronikles",
   "artist": "The Kinks",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137169-c01e007f81474bb49a9191f067eecc267d44ac41.jpg",
   "genre": ["Rock & Roll", "Pop Rock"]
 }, {
   "rating": "233",
   "album": "Mr. Tambourine Man",
   "artist": "The Byrds",
   "year": "1965",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137168-6988e4aead2b277a7e0554b03ad483875c056504.jpg",
   "genre": ["Folk Rock", "Garage Rock", "Pop Rock"]
 }, {
   "rating": "234",
   "album": "Bookends",
   "artist": "Simon & Garfunkel",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137167-928bb33a8aa733d5fabcc6c66bbe8704827b0dd5.jpg",
   "genre": ["Folk Rock", "Classic Rock"]
 }, {
   "rating": "235",
   "album": "The Ultimate Collection",
   "artist": "Patsy Cline",
   "year": "2000",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137166-f88abd6f48a3ab92d656884d045b9635a39149eb.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "236",
   "album": "Mr. Excitement!",
   "artist": "Jackie Wilson",
   "year": "1992",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137165-ae5633b52b6d34b3ef2e48cc0216b28f04e982a0.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "237",
   "album": "My Generation",
   "artist": "The Who",
   "year": "1965",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137164-8dcc7d229827603559709d89ad4858b774da77f9.jpg",
   "genre": ["Mod"]
 }, {
   "rating": "238",
   "album": "Howlin' Wolf",
   "artist": "Howlin' Wolf",
   "year": "1962",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137163-b1a0be14bad2bbb5e1e35e6487e657bbf8a9921e.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "239",
   "album": "Like a Prayer",
   "artist": "Madonna",
   "year": "1989",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137162-283c0cc163f5599f86c97484316bddbb4bde5592.jpg",
   "genre": ["Synth-pop"]
 }, {
   "rating": "240",
   "album": "Can't Buy a Thrill",
   "artist": "Steely Dan",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137161-0764d9ed29f2dea208850e6fb1a176ef801e4e34.jpg",
   "genre": ["Classic Rock"]
 }, {
   "rating": "241",
   "album": "Let It Be",
   "artist": "The Replacements",
   "year": "1984",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137160-a3b8352a8ac12d482424f564271da2503d1ec52a.jpg",
   "genre": ["Alternative Rock", "Power Pop", "Punk", "Indie Rock"]
 }, {
   "rating": "242",
   "album": "Run D.M.C.",
   "artist": "Run D.M.C.",
   "year": "1984",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137159-92abc912ee3fde246ac093cbf9b5d906f5184feb.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "243",
   "album": "Black Sabbath",
   "artist": "Black Sabbath",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137158-213718676e5a54875d4e48bfe1da9de91a7a24a4.jpg",
   "genre": ["Blues Rock", "Heavy Metal"]
 }, {
   "rating": "244",
   "album": "The Marshall Mathers LP",
   "artist": "Eminem",
   "year": "2000",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137157-40e08fde0c565650a2bc208974960d71dfeec2ef.jpg",
   "genre": ["Pop Rap", "Hardcore Hip-Hop", "Horrorcore"]
 }, {
   "rating": "245",
   "album": "All Killer No Filler! The Jerry Lee Lewis Anthology",
   "artist": "Jerry Lee Lewis",
   "year": "1993",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137156-373e059300c1e4cde01c7e1d7d53124a87e63f73.jpg",
   "genre": ["Country Blues", "Rock & Roll", "Rhythm & Blues"]
 }, {
   "rating": "246",
   "album": "Freak Out!",
   "artist": "The Mothers of Invention",
   "year": "1966",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137155-aaa4b9dbc59d741375e942dbd7f3ccec3f6dabf2.jpg",
   "genre": ["Musique Concrete", "Avantgarde", "Symphonic Rock", "Rhythm & Blues", "Psychedelic Rock", "Experimental", "Parody"]
 }, {
   "rating": "247",
   "album": "Live/Dead",
   "artist": "The Grateful Dead",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137154-34f35c2fe196d291ae425f9ef6ec25736031dd37.jpg",
   "genre": ["Folk Rock", "Country Rock", "Psychedelic Rock", "Experimental"]
 }, {
   "rating": "248",
   "album": "The Shape of Jazz to Come",
   "artist": "Ornette Coleman",
   "year": "1959",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137153-6fdf7b366410eb1442737a629e573119b7ae2969.jpg",
   "genre": ["Free Jazz"]
 }, {
   "rating": "249",
   "album": "Automatic for the People",
   "artist": "R.E.M.",
   "year": "1992",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137152-dac5f9d5eda7e806047d3f8c04d1690ed6f485c5.jpg",
   "genre": ["Alternative Rock"]
 }, {
   "rating": "250",
   "album": "Reasonable Doubt",
   "artist": "Jay Z",
   "year": "1996",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137151-f491a039f4a74515ae55e2db1a0a6d1e201dc6a9.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "251",
   "album": "Low",
   "artist": "David Bowie",
   "year": "1977",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137150-d5f3dfde2e432f3096f0c155eee1a360ed27513a.jpg",
   "genre": ["Art Rock", "Ambient", "Experimental"]
 }, {
   "rating": "252",
   "album": "The Blueprint",
   "artist": "Jay Z",
   "year": "2001",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136683-e14b0f89cf479eb8da5db3d2ea15fcc6c0a68611.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "253",
   "album": "The River",
   "artist": "Bruce Springsteen",
   "year": "1980",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137149-366c312375247c1b04b184e20855934a8df1abc4.jpg",
   "genre": ["Folk Rock", "Pop Rock", "Classic Rock"]
 }, {
   "rating": "254",
   "album": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
   "artist": "Otis Redding",
   "year": "1966",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137148-c059a250040668ee96d16602411685a34846c918.jpg",
   "genre": ["Soul"]
 }, {
   "rating": "255",
   "album": "Metallica (\"The Black Album\")",
   "artist": "Metallica",
   "year": "1991",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137147-a5b6a7deda60d004c776a40c7649cd31b837b09e.jpg",
   "genre": ["Heavy Metal"]
 }, {
   "rating": "256",
   "album": "Trans Europa Express",
   "artist": "Kraftwerk",
   "year": "1977",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137146-733e7a2b4446e981d036a63caf2cf7de51d44431.jpg",
   "genre": ["Electro"]
 }, {
   "rating": "257",
   "album": "Whitney Houston",
   "artist": "Whitney Houston",
   "year": "1985",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137145-49adbd2611a827725c3d4825ceec479e0ccb0ab2.jpg",
   "genre": ["Synth-pop", "Rhythm & Blues"]
 }, {
   "rating": "258",
   "album": "The Kinks Are The Village Green Preservation Society",
   "artist": "The Kinks",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137144-fae5871f88f0787651b2ebe1c8303afeb69d7558.jpg",
   "genre": ["Psychedelic Rock", "Pop Rock"]
 }, {
   "rating": "259",
   "album": "The Velvet Rope",
   "artist": "Janet",
   "year": "1997",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137143-c9104bb880785d4d9009b0d9b48d6723c8e420c8.jpg",
   "genre": ["RnB/Swing", "Downtempo"]
 }, {
   "rating": "260",
   "album": "Stardust",
   "artist": "Willie Nelson",
   "year": "1978",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137142-f16f858af7e91904db107c74ce4664bd37a579c8.jpg",
   "genre": ["Vocal"]
 }, {
   "rating": "261",
   "album": "American Beauty",
   "artist": "Grateful Dead",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137141-cffd8a1aefca1b2772fba81402690e6f26067ad6.jpg",
   "genre": ["Folk Rock"]
 }, {
   "rating": "262",
   "album": "Crosby, Stills & Nash",
   "artist": "Crosby, Stills & Nash",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137139-1fab6f85f603f1b9530a3f3a361ff25459ed5a6b.jpg",
   "genre": ["Folk Rock", "Classic Rock"]
 }, {
   "rating": "263",
   "album": "Tracy Chapman",
   "artist": "Tracy Chapman",
   "year": "1988",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137140-cd8268e7b96520a83fdeb0d36dd990d1e641c8bd.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "264",
   "album": "Workingman's Dead",
   "artist": "Grateful Dead",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137138-08264dc54f2fcfe2735b640823a84431ef6a6edf.jpg",
   "genre": ["Folk Rock", "Country Rock", "Classic Rock"]
 }, {
   "rating": "265",
   "album": "The Genius of Ray Charles",
   "artist": "Ray Charles",
   "year": "1959",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137137-f2a052c134f979b74b650c1c50ad7bb35307daf5.jpg",
   "genre": ["Soul-Jazz", "Big Band"]
 }, {
   "rating": "266",
   "album": "Child Is Father to the Man",
   "artist": "Blood, Sweat & Tears",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137136-1cd68790abc0e0c7344303b5e21c7f930565d58f.jpg",
   "genre": ["Blues Rock", "Jazz-Rock", "Classic Rock"]
 }, {
   "rating": "267",
   "album": "Quadrophenia",
   "artist": "The Who",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137135-c772d02b91c9f9d96fc2f194deac497e2c555d11.jpg",
   "genre": ["Hard Rock", "Classic Rock", "Mod"]
 }, {
   "rating": "268",
   "album": "Paul Simon",
   "artist": "Paul Simon",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137134-50884d3fff031dd146a1625bab38bd00dfa1d99c.jpg",
   "genre": ["Folk Rock", "Pop Rock"]
 }, {
   "rating": "269",
   "album": "Psychocandy",
   "artist": "The Jesus and Mary Chain",
   "year": "1985",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137133-aa53e447aa3db9f3a8b57124f58839aa67dc1510.jpg",
   "genre": ["Noise"]
 }, {
   "rating": "270",
   "album": "Some Girls",
   "artist": "The Rolling Stones",
   "year": "1978",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137132-3f6d2901349be691e5e3954bebdcf945fa8a662f.jpg",
   "genre": ["Blues Rock", "Rock & Roll", "Classic Rock", "Disco"]
 }, {
   "rating": "271",
   "album": "The Beach Boys Today!",
   "artist": "The Beach Boys",
   "year": "1965",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137131-6bd88dcbf93095718cce48d75e76e1047007c1c7.jpg",
   "genre": ["Pop Rock", "Psychedelic Rock"]
 }, {
   "rating": "272",
   "album": "Dig Me Out",
   "artist": "Sleater Kinney",
   "year": "1997",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137130-d5bb0902aa196dbbe212e30ae796bdaa36caf0c8.jpg",
   "genre": ["Indie Rock"]
 }, {
   "rating": "273",
   "album": "Going to a Go-Go",
   "artist": "Smokey Robinson & The Miracles",
   "year": "1966",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137129-471adc6adf04ee4a2d78cf3bc6254f9028971d08.jpg",
   "genre": ["Soul"]
 }, {
   "rating": "274",
   "album": "Nightbirds",
   "artist": "LaBelle",
   "year": "1974",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137128-ca5feb5e9907130b20ec88c9905edc9d82eebd91.jpg",
   "genre": ["Funk", "Disco"]
 }, {
   "rating": "275",
   "album": "The Slim Shady LP",
   "artist": "Eminem",
   "year": "1999",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137127-8b4cbc3d4348242b64946d981f7ca09f7959812b.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "276",
   "album": "Mothership Connection",
   "artist": "Parliament",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137126-c5604941cd959fe1954ef8227321f927e5bedd73.jpg",
   "genre": ["P.Funk", "Funk"]
 }, {
   "rating": "277",
   "album": "Rhythm Nation 1814",
   "artist": "Janet Jackson",
   "year": "1989",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137125-907d9bcc53b0e610725e8ad5af63b83f1cb11a88.jpg",
   "genre": ["RnB/Swing", "Downtempo", "Synth-pop"]
 }, {
   "rating": "278",
   "album": "Anthology of American Folk Music",
   "artist": "Various",
   "year": "1997",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137124-88efd17762f6c895f466641ac456ed1f66ac5347.jpg",
   "genre": ["Cajun", "Country", "Field Recording", "Gospel", "Delta Blues", "Folk"]
 }, {
   "rating": "279",
   "album": "Aladdin Sane",
   "artist": "David Bowie",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137123-37af3e0c4e80dd918ca9ace19cd612fa62f1dc9f.jpg",
   "genre": ["Glam"]
 }, {
   "rating": "280",
   "album": "All That You Can't Leave Behind",
   "artist": "U2",
   "year": "2000",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137122-0426ee36584969704e8b5934cd9f5cc5e463e9f7.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "281",
   "album": "My Life",
   "artist": "Mary J. Blige",
   "year": "1994",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137121-74e117929e9bbcaf195c08b9f85619b39908b10a.jpg",
   "genre": ["RnB/Swing"]
 }, {
   "rating": "282",
   "album": "Folk Singer",
   "artist": "Muddy Waters",
   "year": "1964",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137120-e89d9808af9b8731335c902f6b9f247347eaa091.jpg",
   "genre": ["Delta Blues"]
 }, {
   "rating": "283",
   "album": "Can't Get Enough",
   "artist": "Barry White",
   "year": "1974",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137119-b9e3f7d1a08ea157c0c1a7d0f936a5836d67e6f0.jpg",
   "genre": ["Soul", "Disco"]
 }, {
   "rating": "284",
   "album": "The Cars",
   "artist": "The Cars",
   "year": "1978",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137118-2c6baa2c235357b0ecc7b8d569d6a89ecb719010.jpg",
   "genre": ["New Wave", "Pop Rock", "Synth-pop"]
 }, {
   "rating": "285",
   "album": "Music of My Mind",
   "artist": "Stevie Wonder",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137117-2cad69129f7e060e4f879af2421ae1df7531144d.jpg",
   "genre": ["Soul-Jazz", "Soul"]
 }, {
   "rating": "286",
   "album": "I'm Still in Love With You",
   "artist": "Al Green",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137105-7758a01921f4faa051902b83ce69cb25cdda8ba6.jpg",
   "genre": ["Rhythm & Blues", "Soul"]
 }, {
   "rating": "287",
   "album": "Los Angeles",
   "artist": "X",
   "year": "1980",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137104-100850085af0de754732c8590e5dfe7f8f83d803.jpg",
   "genre": ["Punk", "Rock & Roll"]
 }, {
   "rating": "288",
   "album": "Anthem of the Sun",
   "artist": "Grateful Dead",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137103-56178bfc050c470513b01b475dbb7b7057245d2e.jpg",
   "genre": ["Psychedelic Rock"]
 }, {
   "rating": "289",
   "album": "Something Else by The Kinks",
   "artist": "The Kinks",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137102-191d29afede686a0cb7110687760d6a62e16956d.jpg",
   "genre": ["Pop Rock", "Psychedelic Rock", "Mod"]
 }, {
   "rating": "290",
   "album": "Call Me",
   "artist": "Al Green",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137101-f0c0d4eddf3d74c2489388afca3544cf9a8cbf4d.jpg",
   "genre": ["Rhythm & Blues", "Soul"]
 }, {
   "rating": "291",
   "album": "Talking Heads: 77",
   "artist": "Talking Heads",
   "year": "1977",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137100-00902a438c105f822ab4880c767e9e9fddee826b.jpg",
   "genre": ["New Wave"]
 }, {
   "rating": "292",
   "album": "The Basement Tapes",
   "artist": "Bob Dylan and the Band",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137099-d87e80ddb9903e4b5328a6135076215d1b1e61a6.jpg",
   "genre": ["Folk Rock", "Country Rock", "Classic Rock"]
 }, {
   "rating": "293",
   "album": "White Light/White Heat",
   "artist": "The Velvet Underground",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137098-812a226875c09c79cbc70ee1b6376a0c2737962f.jpg",
   "genre": ["Avantgarde", "Experimental"]
 }, {
   "rating": "294",
   "album": "Kick Out the Jams",
   "artist": "MC5",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137097-0bbe27cc13c562d86f4cb7ea6c44dabc9d370f48.jpg",
   "genre": ["Garage Rock", "Hard Rock", "Punk", "Blues Rock"]
 }, {
   "rating": "295",
   "album": "Songs of Love and Hate",
   "artist": "Leonard Cohen",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137096-86a3f3bb9740de18935dcb44838126437dae714f.jpg",
   "genre": ["Folk Rock", "Folk", "Ballad"]
 }, {
   "rating": "296",
   "album": "Meat Is Murder",
   "artist": "The Smiths",
   "year": "1985",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137095-bd954fb9e4c0b42cc1ad5639cb057e1ccb4bc709.jpg",
   "genre": ["Alternative Rock", "Indie Rock"]
 }, {
   "rating": "297",
   "album": "We're Only in It for the Money",
   "artist": "The Mothers of Invention",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137094-0adb633d8d246de8f3814ca782a3158b4928a4e6.jpg",
   "genre": ["Modern Classical", "Avantgarde", "Psychedelic Rock", "Experimental", "Parody"]
 }, {
   "rating": "298",
   "album": "The College Dropout",
   "artist": "Kanye West",
   "year": "2003",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137093-1b99c8dcba97db5d61c339d047cb4a7c478cf1bb.jpg",
   "genre": ["Pop Rap", "Conscious", "Contemporary R&B"]
 }, {
   "rating": "299",
   "album": "Weezer (Blue Album)",
   "artist": "Weezer",
   "year": "1994",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137092-4a32eeb2b9b5a1826835965249982b7c1596d7b6.jpg",
   "genre": ["Alternative Rock", "Emo"]
 }, {
   "rating": "300",
   "album": "Master of Reality",
   "artist": "Black Sabbath",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137091-473edff6fecaf2247d1e8abd564c5bd43919cf8e.jpg",
   "genre": ["Hard Rock", "Heavy Metal"]
 }, {
   "rating": "301",
   "album": "Coat of Many Colors",
   "artist": "Dolly Parton",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137090-07c0fc1a32777459d688a91e4b119e09a4567e4f.jpg",
   "genre": ["Country"]
 }, {
   "rating": "302",
   "album": "Fear of a Black Planet",
   "artist": "Public Enemy",
   "year": "1990",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137089-bdf51aba1d7ed043c7ce6fd7886a760537018859.jpg",
   "genre": ["Conscious"]
 }, {
   "rating": "303",
   "album": "John Wesley Harding",
   "artist": "Bob Dylan",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137088-c082c593392308e286e68b1f1a8130b732b0e1fb.jpg",
   "genre": ["Folk Rock", "Country Rock"]
 }, {
   "rating": "304",
   "album": "Grace",
   "artist": "Jeff Buckley",
   "year": "1994",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137087-8e43cf7dfe33960c8b4b5611e126526e250025ab.jpg",
   "genre": ["Alternative Rock", "Folk Rock"]
 }, {
   "rating": "305",
   "album": "Car Wheels on a Gravel Road",
   "artist": "Lucinda Williams",
   "year": "1998",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137086-33ac9e7a3254dcfd26fc236670255f9a3c1e8dc2.jpg",
   "genre": ["Country", "Folk"]
 }, {
   "rating": "306",
   "album": "Odelay",
   "artist": "Beck",
   "year": "1996",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137085-bd86f3d05ed38fc4ae4ea425c8577bcc748a0bd5.jpg",
   "genre": ["Electro", "Downtempo", "Hip Hop", "Disco", "Afrobeat", "Abstract"]
 }, {
   "rating": "307",
   "album": "A Hard Day's Night",
   "artist": "The Beatles",
   "year": "1964",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136746-6e5c3ad5db903eaa7700e4b1783f45e1a226ecd4.jpg",
   "genre": ["Soundtrack", "Beat", "Pop Rock"]
 }, {
   "rating": "308",
   "album": "Songs for Swingin' Lovers!",
   "artist": "Frank Sinatra",
   "year": "1956",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137084-66f036bbce97f7103a6678431288837eafbbdd22.jpg",
   "genre": ["Vocal", "Easy Listening"]
 }, {
   "rating": "309",
   "album": "Willy and the Poor Boys",
   "artist": "Creedence Clearwater Revival",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136742-cdd78a507f2f5f195bbe5c1e4ff0e6decd7d7a6d.jpg",
   "genre": ["Blues Rock", "Rock & Roll", "Classic Rock"]
 }, {
   "rating": "310",
   "album": "Blood Sugar Sex Magik",
   "artist": "Red Hot Chili Peppers",
   "year": "1991",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137083-2788f292b719280e7bae5068f6c945748f38efa0.jpg",
   "genre": ["Alternative Rock", "Funk Metal"]
 }, {
   "rating": "311",
   "album": "The Sun Records Collection",
   "artist": "Various",
   "year": "1994",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137082-33ddcee01ff6cf9b392777c439f070aa80918948.jpg",
   "genre": ["Country Blues", "Rock & Roll", "Rockabilly"]
 }, {
   "rating": "312",
   "album": "Nothing's Shocking",
   "artist": "Jane's Addiction",
   "year": "1988",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137040-76cf0240139299cded020f3f0ce00e9509e60ed4.jpg",
   "genre": ["Alternative Rock"]
 }, {
   "rating": "313",
   "album": "MTV Unplugged in New York",
   "artist": "Nirvana",
   "year": "1994",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137041-c9b48b0ba2092f8bb49c7190e90cf54da87cb409.jpg",
   "genre": ["Folk Rock", "Acoustic", "Grunge"]
 }, {
   "rating": "314",
   "album": "The Miseducation of Lauryn Hill",
   "artist": "Lauryn Hill",
   "year": "1998",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137042-e204a7d0ec7f1b48ee818f3d20ae97a4e4cd1fb5.jpg",
   "genre": ["RnB/Swing", "Conscious"]
 }, {
   "rating": "315",
   "album": "Damn the Torpedoes",
   "artist": "Tom Petty and the Heartbreakers",
   "year": "1979",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137043-e720e2ab97e6a906d10cd48c14ba0d4bddb8f7ac.jpg",
   "genre": ["Soft Rock", "Hard Rock", "Pop Rock"]
 }, {
   "rating": "316",
   "album": "The Velvet Underground",
   "artist": "The Velvet Underground",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137044-2d5d8aba024aef2b982eba694497142d9c9da4cb.jpg",
   "genre": ["Garage Rock", "Art Rock", "Experimental"]
 }, {
   "rating": "317",
   "album": "Surfer Rosa",
   "artist": "Pixies",
   "year": "1988",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137045-80d6bb5106dc0670120c06ac6e808f78ceb1b74c.jpg",
   "genre": ["Alternative Rock"]
 }, {
   "rating": "318",
   "album": "Back Stabbers",
   "artist": "The O'Jays",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137046-7d85815107309d7f4c4f3304d450ba43c6bb23a8.jpg",
   "genre": ["Soul"]
 }, {
   "rating": "319",
   "album": "Burnin'",
   "artist": "The Wailers",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137047-0e962d1d840dd9afce49cfd5a3330a333efa8068.jpg",
   "genre": ["Reggae"]
 }, {
   "rating": "320",
   "album": "Amnesiac",
   "artist": "Radiohead",
   "year": "2001",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137048-2391a7040c74d817c932baf081b5a44e4f67ef6e.jpg",
   "genre": ["Alternative Rock", "Experimental"]
 }, {
   "rating": "321",
   "album": "Pink Moon",
   "artist": "Nick Drake",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137049-b93a0f0b8c81e527a4f00d7bb6042f82e83f3d44.jpg",
   "genre": ["Folk", "Folk Rock", "Acoustic"]
 }, {
   "rating": "322",
   "album": "Sail Away",
   "artist": "Randy Newman",
   "year": "1972",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137050-67ca9fac857ebe429f076a2814ddccd157266213.jpg",
+  "genre": ["Pop Rock", "Vocal"]
 }, {
   "rating": "323",
   "album": "Ghost in the Machine",
   "artist": "The Police",
   "year": "1981",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137051-3c124fb81356cc6739b0c0c374d742e3a4a42472.jpg",
   "genre": ["Alternative Rock", "New Wave", "Pop Rock"]
 }, {
   "rating": "324",
   "album": "Station to Station",
   "artist": "David Bowie",
   "year": "1976",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137052-351ff161424883f85c4db9fa80e56888d3cd77d3.jpg",
   "genre": ["Classic Rock", "Soul", "Funk", "Art Rock"]
 }, {
   "rating": "325",
   "album": "Slowhand",
   "artist": "Eric Clapton",
   "year": "1977",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137053-92b3c1b8ac077ed9e729bbaf598332a9857d73b2.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "326",
   "album": "Disintegration",
   "artist": "The Cure",
   "year": "1989",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137054-eb2d0bbfc8b18d9536b1abc2c972b981693df4db.jpg",
   "genre": ["New Wave", "Alternative Rock"]
 }, {
   "rating": "327",
   "album": "Exile in Guyville",
   "artist": "Liz Phair",
   "year": "1993",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137055-a6f7b945ff985fd7f33e6a70305cdc4a3c1adf29.jpg",
   "genre": ["Lo-Fi", "Indie Rock"]
 }, {
   "rating": "328",
   "album": "Daydream Nation",
   "artist": "Sonic Youth",
   "year": "1988",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137056-d232b6e969cf4d23ed65348ac85265211da278ac.jpg",
   "genre": ["Alternative Rock", "Indie Rock"]
 }, {
   "rating": "329",
   "album": "In the Jungle Groove",
   "artist": "James Brown",
   "year": "1986",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137057-d416392d008066e8b937afcf1b1189c60e13cd33.jpg",
   "genre": ["Soul", "Funk"]
 }, {
   "rating": "330",
   "album": "Tonight's the Night",
   "artist": "Neil Young",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137058-af69cbf1e44c4d4809ff12b8ce8bbc13f64361ed.jpg",
   "genre": ["Blues Rock", "Folk Rock", "Classic Rock"]
 }, {
   "rating": "331",
   "album": "Help!",
   "artist": "The Beatles",
   "year": "1965",
-  "genre": ["Beat", "Soundtrack", "Pop Rock"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137059-fed5e932be924acebe1af07120b149e7ca68b91d.jpg",
+  "genre": ["Rock & Roll", "Classic Rock", "Pop Rock"]
 }, {
   "rating": "332",
   "album": "Shoot Out the Lights",
   "artist": "Richard & Linda Thompson",
   "year": "1982",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137060-8509b66fd540b93e7bac5b8febc7bfcf553e00e1.jpg",
   "genre": ["Folk Rock"]
 }, {
   "rating": "333",
   "album": "Wild Gift",
   "artist": "X",
   "year": "1981",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137061-de29cc0bf00adde9dfda8038ce2a89c62ba44dd9.jpg",
   "genre": ["Rock & Roll", "Punk"]
 }, {
   "rating": "334",
   "album": "Squeezing Out Sparks",
   "artist": "Graham Parker & The Rumour",
   "year": "1979",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137062-bf6b6d453df24c802f8e50068f7f997f51aec34f.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "335",
   "album": "Superunknown",
   "artist": "Soundgarden",
   "year": "1994",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137063-5a7da984eb6de40bf549cb422860cb8cdb49bc9f.jpg",
   "genre": ["Alternative Rock"]
 }, {
   "rating": "336",
   "album": "In Rainbows",
   "artist": "Radiohead",
   "year": "2007",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137064-d685efa5b778b2c19f76ed7fc97024a829c9f7ce.jpg",
   "genre": ["Alternative Rock", "Art Rock"]
 }, {
   "rating": "337",
   "album": "Aqualung",
   "artist": "Jethro Tull",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137065-efaec9b9cc50a0fee84c31b8f4abfb92bbb9f9d9.jpg",
   "genre": ["Classic Rock", "Prog Rock"]
 }, {
   "rating": "338",
   "album": "Cheap Thrills",
   "artist": "Big Brother & the Holding Company",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137066-6c93f52ce8772d6deb5765af41f01367800704f2.jpg",
   "genre": ["Folk Rock", "Blues Rock", "Psychedelic Rock"]
 }, {
   "rating": "339",
   "album": "The Heart of Saturday Night",
   "artist": "Tom Waits",
   "year": "1974",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137022-497cd6fd5882f193c39336de6171cb62a19fbd52.jpg",
   "genre": ["Contemporary Jazz", "Spoken Word"]
 }, {
   "rating": "340",
   "album": "Damaged",
   "artist": "Black Flag",
   "year": "1981",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137023-f5cf0d9d0a640f67b23548429e9c612795d55eed.jpg",
   "genre": ["Hardcore", "Punk"]
 }, {
   "rating": "341",
   "album": "Play",
   "artist": "Moby",
   "year": "1999",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137024-fb630e34d1a830646ecb43897b508c704522c0f6.jpg",
   "genre": ["Breakbeat", "Leftfield", "Downtempo"]
 }, {
   "rating": "342",
   "album": "Violator",
   "artist": "Depeche Mode",
   "year": "1990",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137025-db8694845154db647271230401c11533470dde4b.jpg",
   "genre": ["Synth-pop"]
 }, {
   "rating": "343",
   "album": "Bat Out of Hell",
   "artist": "Meat Loaf",
   "year": "1977",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137026-f1b6703be10a9b0d6aa50c0a36c270abc7ffffd7.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "344",
   "album": "Berlin",
   "artist": "Lou Reed",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137027-386e1e7b0d919ff9546182b6985c878abb49d5d6.jpg",
   "genre": ["Hard Rock"]
 }, {
   "rating": "345",
   "album": "Stop Making Sense",
   "artist": "Talking Heads",
   "year": "1984",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137028-857c37b98c404e1b5d1b7c8dbe118e52aa354a59.jpg",
   "genre": ["Funk", "Indie Rock", "New Wave"]
 }, {
   "rating": "346",
   "album": "3 Feet High and Rising",
   "artist": "De La Soul",
   "year": "1989",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137029-82071ba43ef5893b11e5d3ca72d278f245ba1d19.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "347",
   "album": "The Piper at the Gates of Dawn",
   "artist": "Pink Floyd",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137030-286dcc9a1b775c7fb167c778cd993b07e3a261bc.jpg",
   "genre": ["Psychedelic Rock"]
 }, {
   "rating": "348",
   "album": "Muddy Waters at Newport 1960",
   "artist": "Muddy Waters",
   "year": "1960",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137031-334ebe654d7f14c902c0d59e6ed108083afcbd21.jpg",
   "genre": ["Blues Rock", "Chicago Blues"]
 }, {
   "rating": "349",
   "album": "The Black Album",
   "artist": "Jay Z",
   "year": "2003",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137032-31ad7ad106b8bf768507532f83154096de5f8c3e.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "350",
   "album": "Roger the Engineer",
   "artist": "The Yardbirds",
   "year": "1966",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137033-43df32bc9de636bde47e5352bf6263c02f6be512.jpg",
   "genre": ["Blues Rock", "Pop Rock"]
 }, {
   "rating": "351",
   "album": "Rust Never Sleeps",
   "artist": "Neil Young & Crazy Horse",
   "year": "1979",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137034-55152a2702cc9634cf7820e629f4c8e4cd432b0c.jpg",
   "genre": ["Hard Rock", "Arena Rock"]
 }, {
   "rating": "352",
   "album": "Brothers in Arms",
   "artist": "Dire Straits",
   "year": "1985",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137035-3f43d3a4d193d7990a6e3980a2574ab5d8b791c7.jpg",
   "genre": ["AOR", "Classic Rock"]
 }, {
   "rating": "353",
   "album": "My Beautiful Dark Twisted Fantasy",
   "artist": "Kanye West",
   "year": "2010",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137036-e8b8728a681904cc2ae44662f645562dbc37cfdb.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "354",
   "album": "52nd Street",
   "artist": "Billy Joel",
   "year": "1978",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137037-dbe90ed210b2cfe577afff4a231fcec06eb1233d.jpg",
   "genre": ["Pop Rock", "Ballad", "Latin Jazz"]
 }, {
   "rating": "355",
   "album": "Having a Rave Up",
   "artist": "The Yardbirds",
   "year": "1965",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137038-ab0d5fbfdc77b40a24122ccb199f3a9248b3391a.jpg",
   "genre": ["Blues Rock", "Psychedelic Rock"]
 }, {
   "rating": "356",
   "album": "12 Songs",
   "artist": "Randy Newman",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137039-b760b240d0788a4f18dcd3050f928d228257ecf5.jpg",
   "genre": ["Pop Rock", "Vocal"]
 }, {
   "rating": "357",
   "album": "Between the Buttons",
   "artist": "The Rolling Stones",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137018-ed197ada5aef46062f5382bb54184f9afbe2e164.jpg",
   "genre": ["Blues Rock", "Psychedelic Rock", "Pop Rock"]
 }, {
   "rating": "358",
   "album": "Sketches of Spain",
   "artist": "Miles Davis",
   "year": "1960",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137020-64c5eaaccb1a3ca7611f3db104573db274b903c8.jpg",
   "genre": ["Modal"]
 }, {
   "rating": "359",
   "album": "Honky Chteau",
   "artist": "Elton John",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136773-45944d1f98e10c631950530b66094c1ac421f485.jpg",
   "genre": ["Pop Rock", "Classic Rock"]
 }, {
   "rating": "360",
   "album": "Singles Going Steady",
   "artist": "Buzzcocks",
   "year": "1979",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136772-25002addf840fde6ea4d2e50ded57913d680149a.jpg",
   "genre": ["Punk"]
 }, {
   "rating": "361",
   "album": "Stankonia",
   "artist": "OutKast",
   "year": "2000",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136771-da7e3f29f5fd9da7f9ecc99e42734aedf6153527.jpg",
   "genre": ["Gangsta", "P.Funk", "Crunk", "Conscious"]
 }, {
   "rating": "362",
   "album": "Siamese Dream",
   "artist": "The Smashing Pumpkins",
   "year": "1993",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136770-f75a3defd32d772a37967368ca5144f349adff4f.jpg",
   "genre": ["Alternative Rock"]
 }, {
   "rating": "363",
   "album": "Substance 1987",
   "artist": "New Order",
   "year": "1987",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136769-595630ef42badad77c0f79f25880c5f5379058bb.jpg",
   "genre": ["Synth-pop"]
 }, {
   "rating": "364",
   "album": "L.A. Woman",
   "artist": "The Doors",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136768-3a988ca1ad3de55c29438bb4e94b42bf8477eb50.jpg",
   "genre": ["Blues Rock", "Classic Rock"]
 }, {
   "rating": "365",
   "album": "Rage Against the Machine",
   "artist": "Rage Against the Machine",
   "year": "1992",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136762-ead6973cfb00910e25c8fa6187d983ecf823088d.jpg",
   "genre": ["Funk Metal"]
 }, {
   "rating": "366",
   "album": "American Recordings",
   "artist": "Johnny Cash",
   "year": "1994",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136766-73af6cda21873c965e49aba5525c5d5d2f30d6fd.jpg",
   "genre": ["Country", "Gospel", "Folk"]
 }, {
   "rating": "367",
   "album": "Ray of Light",
   "artist": "Madonna",
   "year": "1998",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136767-aa8907da9d426f8b9bf6644812760ae1bed73653.jpg",
   "genre": ["House", "Techno", "Downtempo", "Vocal", "Ambient"]
 }, {
   "rating": "368",
   "album": "Eagles",
   "artist": "Eagles",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136756-d6dea808a538e3dbe7e57ee637e705d1e70b50bb.jpg",
   "genre": ["Country Rock", "Classic Rock"]
 }, {
   "rating": "369",
   "album": "Louder Than Bombs",
   "artist": "The Smiths",
   "year": "1987",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136765-7b55788d237dc1e014b7ca688943f0d591eabed1.jpg",
   "genre": ["Alternative Rock", "Indie Rock"]
 }, {
   "rating": "370",
   "album": "Mott",
   "artist": "Mott the Hoople",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136764-78aeabeabc0a3e211dabf9ad2d95f100d713152d.jpg",
   "genre": ["Classic Rock"]
 }, {
   "rating": "371",
   "album": "Whatever People Say I Am, That's What I'm Not",
   "artist": "Arctic Monkeys",
   "year": "2006",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137021-d42156f4766f5144943b62c40c2c42a602139208.jpg",
   "genre": ["Indie Rock"]
 }, {
   "rating": "372",
   "album": "Reggatta de Blanc",
   "artist": "The Police",
   "year": "1979",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136761-7c4e9b1a46e6dce7e011f56aa663741b7fbbed6b.jpg",
   "genre": ["New Wave", "Pop Rock"]
 }, {
   "rating": "373",
   "album": "Volunteers",
   "artist": "Jefferson Airplane",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136760-af859109d88b4c6ba2ab2b33f1a744eea103fdd5.jpg",
   "genre": ["Psychedelic Rock", "Folk Rock", "Country Rock", "Honky Tonk"]
 }, {
   "rating": "374",
   "album": "Siren",
   "artist": "Roxy Music",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136759-c84c5d7cc793fa64fe6477fc0fab6d273c9cddc9.jpg",
   "genre": ["Art Rock", "Pop Rock", "Glam"]
 }, {
   "rating": "375",
   "album": "Late for the Sky",
   "artist": "Jackson Browne",
   "year": "1974",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136758-dc22c1227a796a4aadf1fa09585e08e825be9d5d.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "376",
   "album": "Post",
   "artist": "Bjork",
   "year": "1995",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136757-827a9c428ae8bd5bdd22bb052bb78911394d1400.jpg",
   "genre": ["Breakbeat", "IDM", "Electro"]
 }, {
   "rating": "377",
   "album": "The Ultimate Collection: 1948-1990",
   "artist": "John Lee Hooker",
   "year": "1991",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136755-46e505aaa6b3fbec81ea7e56d0142b34699e297d.jpg",
   "genre": ["Country Blues", "Electric Blues", "Chicago Blues", "Jump Blues"]
 }, {
   "rating": "378",
   "album": "(What's the Story) Morning Glory?",
   "artist": "Oasis",
   "year": "1995",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136754-7fbd989b9a3b346ee696654d85ac3764828db9d7.jpg",
   "genre": ["Brit Pop"]
 }, {
   "rating": "379",
   "album": "CrazySexyCool",
   "artist": "TLC",
   "year": "1994",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136753-cfda293e9e9fd4d48465512d443b5f76aed3e254.jpg",
   "genre": ["RnB/Swing"]
 }, {
   "rating": "380",
   "album": "Funky Kingston",
   "artist": "Toots & The Maytals",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136752-d4c3cffd5fb09b82c6d2a75a5f666affb704967d.jpg",
   "genre": ["Reggae Gospel", "Reggae", "Roots Reggae", "Rocksteady"]
 }, {
   "rating": "381",
   "album": "The Smile Sessions",
   "artist": "The Beach Boys",
   "year": "2011",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136902-c855ec81866eca28056323442bf6a2ec4c23aab9.jpg",
   "genre": ["Pop Rock", "Psychedelic Rock"]
 }, {
   "rating": "382",
   "album": "The Modern Lovers",
   "artist": "The Modern Lovers",
   "year": "1976",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136751-d733e6ff6d6cd3b3b299afe0d59d265757f73338.jpg",
   "genre": ["Art Rock", "Indie Rock"]
 }, {
   "rating": "383",
   "album": "More Songs About Buildings and Food",
   "artist": "Talking Heads",
   "year": "1978",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136750-c0eff34e3dfdad26b00d7e840d45d797aa8d2106.jpg",
   "genre": ["New Wave", "Indie Rock"]
 }, {
   "rating": "384",
   "album": "A Quick One",
   "artist": "The Who",
   "year": "1966",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136749-190a086aed550122c17439e5249cff7afbf88e68.jpg",
   "genre": ["Mod", "Beat", "Psychedelic Rock"]
 }, {
   "rating": "385",
   "album": "\"Love and Theft\"",
   "artist": "Bob Dylan",
   "year": "2001",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136680-b49ad91a64cd80be9f66a9df45193e5c095de331.jpg",
   "genre": ["Folk Rock", "Blues Rock"]
 }, {
   "rating": "386",
   "album": "Pretzel Logic",
   "artist": "Steely Dan",
   "year": "1974",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136748-ef3fd5470dc9d27fd9b898639ecacbedf3e49c6b.jpg",
   "genre": ["Jazz-Rock", "Pop Rock", "Classic Rock"]
 }, {
   "rating": "387",
   "album": "Enter the Wu_Tang: 36 Chambers",
   "artist": "Wu Tang Clan",
   "year": "1993",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136747-33166b125c154dc882cc752cfc3af2303ae7b640.jpg",
   "genre": ["Gangsta"]
 }, {
   "rating": "388",
   "album": "The Indestructible Beat of Soweto",
   "artist": "Various Artists",
   "year": "1985",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136906-fd2989586cb9ebc9cd03c1281d530055b0d91639.jpg",
   "genre": ["African"]
 }, {
   "rating": "389",
   "album": "The End of the Innocence",
   "artist": "Don Henley",
   "year": "1989",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136745-3d5832f04f13b597959487153a0f8a1a62819e68.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "390",
   "album": "Elephant",
   "artist": "The White Stripes",
   "year": "2003",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136744-41b915f494ce61a76562e0a6d97674a4d7c78ca8.jpg",
   "genre": ["Blues Rock", "Garage Rock", "Alternative Rock"]
 }, {
   "rating": "391",
   "album": "The Pretender",
   "artist": "Jackson Browne",
   "year": "1976",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136743-2df32436c25076097429216ec29fa89e8dd32fe9.jpg",
   "genre": ["Soft Rock", "Pop Rock"]
 }, {
   "rating": "392",
   "album": "Let It Be",
   "artist": "The Beatles",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-137222-c71163a3fdf7714caf3e6f53e056fa6ebbead066.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "393",
   "album": "Kala",
   "artist": "M.I.A.",
   "year": "2007",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136892-e4d9f8a1093f9b73ca3290360081477da804b718.jpg",
   "genre": ["Grime", "Bollywood", "Hip Hop", "Dancehall"]
 }, {
   "rating": "394",
   "album": "Good Old Boys",
   "artist": "Randy Newman",
   "year": "1974",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136741-10b60c390feab0f32710923eeeecf2af5a1be53f.jpg",
   "genre": ["Pop Rock", "Vocal"]
 }, {
   "rating": "395",
   "album": "Sound of Silver",
   "artist": "LCD Soundsystem",
   "year": "2007",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136894-1590edf1212b467d92c5be8468f00d1b3c2f184e.jpg",
   "genre": ["Leftfield", "Alternative Rock", "Electro", "Disco"]
 }, {
   "rating": "396",
   "album": "For Your Pleasure",
   "artist": "Roxy Music",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136740-a5f49ec0083a5850fa2caa4b239bb9d46ea1309d.jpg",
   "genre": ["Art Rock", "Avantgarde", "Glam"]
 }, {
   "rating": "397",
   "album": "Blue Lines",
   "artist": "Massive Attack",
   "year": "1991",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136739-3d19163287470cbd317dd4570309eca8106ddd84.jpg",
   "genre": ["Dub", "Downtempo"]
 }, {
   "rating": "398",
   "album": "Eliminator",
   "artist": "ZZ Top",
   "year": "1983",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136738-7a8fb96b7a41d8bc701d1073369ea92ed01baad5.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "399",
   "album": "Rain Dogs",
   "artist": "Tom Waits",
   "year": "1985",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136737-f5d277070b5132b4d8e6d8ebb1a587eb485aa5ad.jpg",
   "genre": ["Blues Rock"]
 }, {
   "rating": "400",
   "album": "Anthology: The Best of The Temptations",
   "artist": "The Temptations",
   "year": "1995",
+  "artwork_url": "http://img.wennermedia.com/featured-promo-580/rs-136896-2f8b220216e8d324b241a9bc2ab349530fb9b724.jpg",
   "genre": ["Soul", "Disco"]
 }, {
   "rating": "401",
   "album": "Californication",
   "artist": "Red Hot Chili Peppers",
   "year": "1999",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136736-815e81c0c12a2447982ec2164f3f86872b15415c.jpg",
   "genre": ["Alternative Rock", "Funk Metal"]
 }, {
   "rating": "402",
   "album": "Illmatic",
   "artist": "Nas",
   "year": "1994",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136735-d5b63b58379af6c92ace0898d6fb06a1a93c4d81.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "403",
   "album": "(pronounced 'leh-'nerd 'skin-'nerd)",
   "artist": "Lynyrd Skynyrd",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136734-b41501275c94bc6794de329b5840d261d2a99c08.jpg",
   "genre": ["Blues Rock", "Hard Rock", "Southern Rock"]
 }, {
   "rating": "404",
   "album": "Dr. John's Gumbo",
   "artist": "Dr. John",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136733-b4a4923b15393ebbc34b0fd2bbb7d06c75352aba.jpg",
   "genre": ["Bayou Funk", "Funk", "Rhythm & Blues"]
 }, {
   "rating": "405",
   "album": "Radio City",
   "artist": "Big Star",
   "year": "1974",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136732-35c0ce746af3e3d76571c9011b7aa9fcd2b6d3b1.jpg",
   "genre": ["Power Pop"]
 }, {
   "rating": "406",
   "album": "Rid of Me",
   "artist": "PJ Harvey",
   "year": "1993",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136730-610c6174a896d003777ce7af8ed8b2193872e6b6.jpg",
   "genre": ["Indie Rock"]
 }, {
   "rating": "407",
   "album": "Sandinista!",
   "artist": "The Clash",
   "year": "1980",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136731-ca9a65d59894fe510ca5f05d6fad033850da36b7.jpg",
   "genre": ["Rock & Roll", "Dub", "Punk"]
 }, {
   "rating": "408",
   "album": "I Do Not Want What I Haven't Got",
   "artist": "Sinead O'Connor",
   "year": "1989",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136729-8e1450fbafc50b59aa669ae65a49cd43752b0d07.jpg",
   "genre": ["Blues Rock", "Rhythm & Blues", "Soul"]
 }, {
   "rating": "409",
   "album": "Strange Days",
   "artist": "The Doors",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136728-8d68203601a7e4b712e98d5a6fcc6f4b290136dc.jpg",
   "genre": ["Psychedelic Rock"]
 }, {
   "rating": "410",
   "album": "Time Out of Mind",
   "artist": "Bob Dylan",
   "year": "1997",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136727-19ed8e700b963f5da4a354c25179a08b7fa7c22a.jpg",
   "genre": ["Blues Rock"]
 }, {
   "rating": "411",
   "album": "461 Ocean Boulevard",
   "artist": "Eric Clapton",
   "year": "1974",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136726-acf682a405f1c7766dbc78894c1b82c85b7c7381.jpg",
   "genre": ["Blues Rock"]
 }, {
   "rating": "412",
   "album": "Pink Flag",
   "artist": "Wire",
   "year": "1977",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136725-fb5d1bce77409b907a346a09303b68dfdf6c95d2.jpg",
   "genre": ["Punk"]
 }, {
   "rating": "413",
   "album": "Double Nickels on the Dime",
   "artist": "Minutemen",
   "year": "1984",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136724-41869c0734a9669c6300d6c6aa89ecbad672c62e.jpg",
   "genre": ["Alternative Rock", "Hardcore", "Punk"]
 }, {
   "rating": "414",
   "album": "Beauty and the Beat",
   "artist": "The Go Go's",
   "year": "1981",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136723-eb4dda489cf1bbe3a094aab6396a25638db67a21.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "415",
   "album": "Van Halen",
   "artist": "Van Halen",
   "year": "1978",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136722-d945f84215d6743d66f6c816d2f95ea41aae7ce1.jpg",
   "genre": ["Hard Rock"]
 }, {
   "rating": "416",
   "album": "Mule Variations",
   "artist": "Tom Waits",
   "year": "1999",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136720-81f0ce6ad8b816a69ab8e43039028f8a068f3bf3.jpg",
   "genre": ["Abstract", "Art Rock"]
 }, {
   "rating": "417",
   "album": "Boy",
   "artist": "U2",
   "year": "1980",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136721-fdbdd7851ff4f06d8b76ddd40843453fbb3fbaf7.jpg",
   "genre": ["New Wave", "Pop Rock"]
 }, {
   "rating": "418",
   "album": "Band on the Run",
   "artist": "Paul McCartney & Wings",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136719-853b66a39a6a4a772846c0da49f1b5c5e7c807f3.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "419",
   "album": "Dummy",
   "artist": "Portishead",
   "year": "1994",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136718-ba3038a8eb3f8bae73a44f22b651a68ff652496d.jpg",
   "genre": ["Trip Hop", "Downtempo"]
 }, {
   "rating": "420",
   "album": "The \"Chirping\" Crickets",
   "artist": "The Crickets",
   "year": "1957",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136717-f98a7635a3722e7f7568e724109c6728c601fc29.jpg",
   "genre": ["Rockabilly", "Rock & Roll"]
 }, {
   "rating": "421",
   "album": "The Best of the Girl Groups, Volume 1",
   "artist": "Various Artists",
   "year": "1990",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136716-cbbaa618e1a73ecb8c1a8e4cfdaef83d56cdcb39.jpg",
   "genre": ["Pop Rock", "Vocal"]
 }, {
   "rating": "422",
   "album": "Presenting the Fabulous Ronettes Featuring Veronica",
   "artist": "The Ronettes",
   "year": "1963",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136715-53d90c0f45880a179e9a6d526a44d288afbf992b.jpg",
   "genre": ["Rock & Roll", "Vocal"]
 }, {
   "rating": "423",
   "album": "Anthology",
   "artist": "Diana Ross & The Supremes",
   "year": "2001",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136711-72bb1c9336f4fa748bc0f534ac83191016df317b.jpg",
   "genre": ["Pop Rock", "Soul", "Disco"]
 }, {
   "rating": "424",
   "album": "The Rising",
   "artist": "Bruce Springsteen",
   "year": "2002",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136886-1ea07a2b8beaae3f3c28d484e9d8ca67ebb24a67.jpg",
   "genre": ["Folk Rock", "Classic Rock"]
 }, {
   "rating": "425",
   "album": "Grievous Angel",
   "artist": "Gram Parsons",
   "year": "1974",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136713-c966ac94055a62214d1fb4ef401973098753ad89.jpg",
   "genre": ["Country Rock", "Honky Tonk"]
 }, {
   "rating": "426",
   "album": "Cheap Trick at Budokan",
   "artist": "Cheap Trick",
   "year": "1978",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136712-76b2b8e283d3e70f9c0b9f3d7c321cee35a76f2b.jpg",
   "genre": ["Power Pop", "Pop Rock", "Arena Rock", "Hard Rock"]
 }, {
   "rating": "427",
   "album": "Sleepless",
   "artist": "Peter Wolf",
   "year": "2002",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136710-5b9e8c60dde91e1cd1ce4f9014a849e06ae3dbb5.jpg",
   "genre": ["Blues Rock", "Pop Rock", "Ballad"]
 }, {
   "rating": "428",
   "album": "Outlandos d'Amour",
   "artist": "The Police",
   "year": "1978",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136708-f0f74fecec08efb2b24d0ce736fe8878563d04e9.jpg",
   "genre": ["Alternative Rock", "New Wave", "Punk"]
 }, {
   "rating": "429",
   "album": "Another Green World",
   "artist": "Brian Eno",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136709-d71ae15551fbe659eb0a75b827e9145fb9da1d03.jpg",
   "genre": ["Experimental", "Ambient"]
 }, {
   "rating": "430",
   "album": "Vampire Weekend",
   "artist": "Vampire Weekend",
   "year": "2007",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136887-bd3931e1d2c2854bef5aae8c6dfbdf4d204be898.jpg",
   "genre": ["Indie Rock"]
 }, {
   "rating": "431",
   "album": "Stories From the City, Stories From the Sea",
   "artist": "PJ Harvey",
   "year": "2000",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136888-8ad83747cb2008b1a6d03e20ff543852b6d35d71.jpg",
   "genre": ["Indie Rock"]
 }, {
   "rating": "432",
   "album": "Here Come the Warm Jets",
   "artist": "Brian Eno",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136707-4d92d4059890f766e5ded5134541c36e8c94e675.jpg",
   "genre": ["Art Rock", "Glam"]
 }, {
   "rating": "433",
   "album": "All Things Must Pass",
   "artist": "George Harrison",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136706-e0570b4dd7064b17ab89a0097dab03fcbdfae5c9.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "434",
   "album": "#1 Record",
   "artist": "Big Star",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136705-61ea1bd53d9d1a3710e4ff8d2fa6e92fd678813c.jpg",
   "genre": ["Power Pop"]
 }, {
   "rating": "435",
   "album": "In Utero",
   "artist": "Nirvana",
   "year": "1993",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136704-c4b390f3b814e8ab8e6a4aa939f3632269ef8121.jpg",
   "genre": ["Grunge", "Alternative Rock"]
 }, {
   "rating": "436",
   "album": "Sea Change",
   "artist": "Beck",
   "year": "2002",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136703-2db46c65f260992f718e621b828782bcdc768224.jpg",
   "genre": ["Alternative Rock", "Post Rock"]
 }, {
   "rating": "437",
   "album": "Tha Carter III",
   "artist": "Lil Wayne",
   "year": "2008",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136889-d1592d826a0fe5bd19021d15a46fb07f0c573131.jpg",
   "genre": ["RnB/Swing", "Screw", "Pop Rap", "Thug Rap"]
 }, {
   "rating": "438",
   "album": "Boys Don't Cry",
   "artist": "The Cure",
   "year": "1979",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136702-2ee61387fb50efc38b003d13cae18374e4b0157b.jpg",
   "genre": ["New Wave", "Post-Punk"]
 }, {
   "rating": "439",
   "album": "Live at the Harlem Square Club, 1963",
   "artist": "Sam Cooke",
   "year": "1985",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136701-e7e727eaf37e1a1c7fc920aacd88d14b58b29677.jpg",
   "genre": ["Soul"]
 }, {
   "rating": "440",
   "album": "Rum Sodomy & the Lash",
   "artist": "The Pogues",
   "year": "1985",
+  "artwork_url": "http://img.wennermedia.com/820-width/rum_sodomy_and_the_lash-ee9a725e-410d-4a92-bb6f-6a543f53a329.jpg",
   "genre": ["Folk Rock", "Celtic", "Punk"]
 }, {
   "rating": "441",
   "album": "Suicide",
   "artist": "Suicide",
   "year": "1977",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-suicide-suicide-bb630ff5-aad2-44c2-b2b6-9a9a85414078.jpg",
   "genre": ["New Wave", "Experimental"]
 }, {
   "rating": "442",
   "album": "Q: Are We Not Men? A: We Are Devo!",
   "artist": "DEVO",
   "year": "1978",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-devo-q-are-we-not-men-a-we-are-devo-c4207947-2748-4eb4-a964-f2e4b62f892f.jpg",
   "genre": ["New Wave"]
 }, {
   "rating": "443",
   "album": "In Color",
   "artist": "Cheap Trick",
   "year": "1977",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-cheap-trick-in-color-1ef4f243-d005-412e-810f-9cdad233af2a.jpg",
   "genre": ["Power Pop", "Pop Rock", "Hard Rock"]
 }, {
   "rating": "444",
   "album": "The World Is a Ghetto",
   "artist": "War",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-war-the-world-is-a-ghetto-dcf915aa-8daa-444b-b0b3-75aae7639cfa.jpg",
   "genre": ["Funk"]
 }, {
   "rating": "445",
   "album": "Fly Like an Eagle",
   "artist": "Steve Miller Band",
   "year": "1976",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-steve-miller-band-fly-like-an-eagle-f32e7248-0279-4e0b-b63f-f465467094e9.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "446",
   "album": "Back in the USA",
   "artist": "MC5",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136694-c9be837ed998ba01e7e79691e4cc14720085f29d.jpg",
   "genre": ["Garage Rock", "Rock & Roll"]
 }, {
   "rating": "447",
   "album": "Getz / Gilberto",
   "artist": "Stan Getz/Joao GilbertofeaturingAntonio Carlos Jobim",
   "year": "1964",
+  "artwork_url": "http://img.wennermedia.com/660-width/rs-136693-9e41183410b706cadf485877106a469c2acac60b.jpg",
   "genre": ["Bossa Nova", "Latin Jazz"]
 }, {
   "rating": "448",
   "album": "Synchronicity",
   "artist": "The Police",
   "year": "1983",
+  "artwork_url": "http://img.wennermedia.com/660-width/the-police-synchronicity-16ba97a3-6be6-4834-8844-a63c29e34d80.jpg",
   "genre": ["New Wave", "Pop Rock"]
 }, {
   "rating": "449",
   "album": "Third/Sister Lovers",
   "artist": "Big Star",
   "year": "1978",
+  "artwork_url": "http://img.wennermedia.com/660-width/big-star-third-sister-lovers-2df15c34-b6ad-43fa-98fe-a25aa7fbc7c2.jpg",
   "genre": ["Lo-Fi", "Indie Rock"]
 }, {
   "rating": "450",
   "album": "For Everyman",
   "artist": "Jackson Browne",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/jackson-browne-for-everyman-e11347ab-7a22-49e1-8ce8-16cb9cdbeb50.jpg",
   "genre": ["Pop Rock", "Classic Rock"]
 }, {
   "rating": "451",
   "album": "Back to Black",
   "artist": "Amy Winehouse",
   "year": "2006",
+  "artwork_url": "http://img.wennermedia.com/660-width/amy-winehouse-back-to-black-7579fe06-2dab-496a-a510-3ff389357194.jpg",
   "genre": ["Soul"]
 }, {
   "rating": "452",
   "album": "John Prine",
   "artist": "John Prine",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/john-prine-john-prine-f1ac668e-e5a2-47d9-88c9-de74957a6050.jpg",
   "genre": ["Country", "Folk"]
 }, {
   "rating": "453",
   "album": "Strictly Business",
   "artist": "EPMD",
   "year": "1987",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/epmd-strictly-business-9bcb17c5-3f1f-4f1c-b8db-ca698b7815dd.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "454",
   "album": "Love It to Death",
   "artist": "Alice Cooper",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/alice-cooper-love-it-to-death-ea4570ab-67df-4b1f-b199-c1dba2dc016c.jpg",
   "genre": ["Classic Rock"]
 }, {
   "rating": "455",
   "album": "How Will the Wolf Survive?",
   "artist": "Los Lobos",
   "year": "1984",
+  "artwork_url": "http://img.wennermedia.com/660-width/los-lobos-how-will-the-wolf-survive--f8beaa7f-a2e5-4606-9ef2-5cf851f1a3b4.jpg",
   "genre": ["Blues Rock"]
 }, {
   "rating": "456",
   "album": "Here, My Dear",
   "artist": "Marvin Gaye",
   "year": "1978",
+  "artwork_url": "http://img.wennermedia.com/660-width/marvin-gaye-here-my-dear-0811056b-7368-4c36-9339-ed12ed2398f9.jpg",
   "genre": ["Soul"]
 }, {
   "rating": "457",
   "album": "Z",
   "artist": "My Morning Jacket",
   "year": "2005",
+  "artwork_url": "http://img.wennermedia.com/660-width/z-cover-4e588ef3-de67-4a6a-b569-debea2c5379d.jpg",
   "genre": ["Alternative Rock"]
 }, {
   "rating": "458",
   "album": "Tumbleweed Connection",
   "artist": "Elton John",
   "year": "1970",
+  "artwork_url": "http://img.wennermedia.com/660-width/elton_john_-_tumbleweed_connection_-_front-979f16e5-361a-48c6-9ea1-934ea402a886.jpg",
   "genre": ["Soft Rock", "Country Rock"]
 }, {
   "rating": "459",
   "album": "The Drifters' Golden Hits",
   "artist": "The Drifters",
   "year": "1968",
+  "artwork_url": "http://img.wennermedia.com/660-width/golden-hits-5515a273d8f59-210fff2e-feaf-43c9-8ace-a30b6d3c5e4e.jpg",
   "genre": ["Rhythm & Blues", "Soul"]
 }, {
   "rating": "460",
   "album": "Live Through This",
   "artist": "Hole",
   "year": "1994",
+  "artwork_url": "http://img.wennermedia.com/660-width/74b78cb40fa2ccef729620805d9861941000x1000x1-50fa67b8-c2b1-44ca-9332-1fb90c520baf.jpg",
   "genre": ["Grunge"]
 }, {
   "rating": "461",
   "album": "Metal Box",
   "artist": "Public Image Ltd.",
   "year": "1979",
+  "artwork_url": "http://img.wennermedia.com/660-width/piccit_public_image_ltd___metal_box_1700139204-46248b44-4c5d-4699-aafc-cfd355091d39.jpg",
   "genre": ["Post-Punk", "Dub", "Avantgarde", "Experimental"]
 }, {
   "rating": "462",
   "album": "Document",
   "artist": "R.E.M.",
   "year": "1987",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/789bf1d2-f8357134-f473-4ae3-b2c3-8931e4d98171.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "463",
   "album": "Heaven Up Here",
   "artist": "Echo and The Bunnymen",
   "year": "1981",
+  "artwork_url": "http://img.wennermedia.com/660-width/echo-the-bunnymen-heaven-up-here-ed971d5c-7beb-422c-88a3-816d677266b3.jpg",
   "genre": ["New Wave", "Indie Rock"]
 }, {
   "rating": "464",
   "album": "Hysteria",
   "artist": "Def Leppard",
   "year": "1987",
+  "artwork_url": "http://img.wennermedia.com/660-width/8560698_f1024-a994fb27-87cf-46f0-9d8e-aba23729aa1f.jpg",
   "genre": ["Hard Rock", "Arena Rock"]
 }, {
   "rating": "465",
   "album": "69 Love Songs",
   "artist": "The Magnetic Fields",
   "year": "1999",
+  "artwork_url": "http://img.wennermedia.com/660-width/10_700_700_169_magfields_69-1a38388b-a376-43b2-8365-5b4efe9618ec.jpg",
   "genre": ["Synth-pop", "Indie Rock"]
 }, {
   "rating": "466",
   "album": "A Rush of Blood to the Head",
   "artist": "Coldplay",
   "year": "2002",
+  "artwork_url": "http://img.wennermedia.com/660-width/coldplay-a-rush-of-blood-to-the-head-b994b5e3-9684-43b7-af44-f0a23154c100.jpg",
   "genre": ["Alternative Rock", "Pop Rock"]
 }, {
   "rating": "467",
   "album": "Tunnel of Love",
   "artist": "Bruce Springsteen",
   "year": "1987",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/bruce-springsteen-tunnel-of-love-delantera-24a384d9-9eec-4b9d-9987-74aa31ed0d6d.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "468",
   "album": "The Paul Butterfield Blues Band",
   "artist": "The Paul Butterfield Blues Band",
   "year": "1965",
+  "artwork_url": "http://img.wennermedia.com/660-width/cs498050-01a-big-c9162c3e-36e4-4323-86b2-2e4f28aac696.jpg",
   "genre": ["Blues Rock", "Electric Blues", "Chicago Blues", "Modern Electric Blues", "Harmonica Blues"]
 }, {
   "rating": "469",
   "album": "The Score",
   "artist": "Fugees",
   "year": "1996",
+  "artwork_url": "http://img.wennermedia.com/660-width/maxresdefault-3b0ebfbe-ff73-49f3-847f-d49a03672c29.jpg",
   "genre": ["Pop Rap", "Conscious"]
 }, {
   "rating": "470",
   "album": "Radio",
   "artist": "L.L. Cool J",
   "year": "1985",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/radio-53c118257ccf5-4f6092f2-b9b4-4fc2-8ab3-360b5a69465b.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "471",
   "album": "I Want to See the Bright Lights Tonight",
   "artist": "Richard & Linda Thompson",
   "year": "1974",
+  "artwork_url": "http://img.wennermedia.com/660-width/album04-f83b5716-7b2a-4f0e-8539-05efcf61e40d.jpg",
   "genre": ["Classic Rock", "Folk Rock"]
 }, {
   "rating": "472",
   "album": "Faith",
   "artist": "George Michael",
   "year": "1987",
+  "artwork_url": "http://img.wennermedia.com/660-width/faithcd-a06ce12d-15c5-4bc9-a9c2-3e6bd205382e.jpg",
   "genre": ["Downtempo", "Soft Rock", "Pop Rock", "Synth-pop"]
 }, {
   "rating": "473",
   "album": "The Smiths",
   "artist": "The Smiths",
   "year": "1984",
+  "artwork_url": "http://img.wennermedia.com/660-width/the_smiths_-_1984_the_smiths_joe_dallesandro-e0440f23-a933-4208-b67f-75d6f22b4e54.jpg",
   "genre": ["Indie Rock"]
 }, {
   "rating": "474",
   "album": "Proxima estacion: Esperanza",
   "artist": "Manu Chao",
   "year": "2001",
+  "artwork_url": "http://img.wennermedia.com/660-width/manu_chao-proxima_estacion_esperanza-frontal-83c07861-2847-44a0-94c0-06270b213796.jpg",
   "genre": ["Folk Rock", "Reggae", "Reggae-Pop"]
 }, {
   "rating": "475",
   "album": "Armed Forces",
   "artist": "Elvis Costello & The Attractions",
   "year": "1979",
+  "artwork_url": "http://img.wennermedia.com/660-width/armed-forces-53dffbc88be87-6568d655-8bb8-4cc6-b804-8f506fd8509d.jpg",
   "genre": ["New Wave", "Pop Rock"]
 }, {
   "rating": "476",
   "album": "Life After Death",
   "artist": "The Notorious B.I.G.",
   "year": "1997",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/notorious-big-life-after-death-e80ddc0d-b0e9-436c-aef9-4812afdd3d24.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "477",
   "album": "Down Every Road",
   "artist": "Merle Haggard",
   "year": "1996",
+  "artwork_url": "http://img.wennermedia.com/660-width/unnamed-1f798254-f22d-4978-bfea-e0b1a4114afb.jpg",
   "genre": ["Country"]
 }, {
   "rating": "478",
   "album": "All Time Greatest Hits",
   "artist": "Loretta Lynn",
   "year": "2002",
+  "artwork_url": "http://img.wennermedia.com/660-width/48353-4422068b-0d3f-4f8f-b7ee-edf01a0206f6.jpg",
   "genre": ["Country"]
 }, {
   "rating": "479",
   "album": "Maggot Brain",
   "artist": "Funkadelic",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/maggot-brain-72dpi-e6055166-6578-4584-9e2e-643634f5fcf4.jpg",
   "genre": ["P.Funk", "Psychedelic Rock"]
 }, {
   "rating": "480",
   "album": "Only Built 4 Cuban Linx",
   "artist": "Raekwon",
   "year": "1995",
-  "genre": ["None"]
+  "artwork_url": "http://img.wennermedia.com/660-width/raekwon-only-built-2-cuban-linx-649d9e3f-2aaf-4663-ba60-200c8f418567.jpg",
+  "genre": ["Hip Hop"]
 }, {
   "rating": "481",
   "album": "Voodoo",
   "artist": "D'Angelo",
   "year": "2000",
+  "artwork_url": "http://img.wennermedia.com/660-width/dangelo-voodoo-ltd-white-vinyl-65138e6e-2239-4d15-a149-08757d3212ec.jpg",
   "genre": ["Soul", "Funk", "Neo Soul"]
 }, {
   "rating": "482",
   "album": "Guitar Town",
   "artist": "Steve Earle",
   "year": "1986",
+  "artwork_url": "http://img.wennermedia.com/660-width/00602547849625-cover-zoom-de91d20a-6cdb-4cc6-8511-5b2e4bee6408.jpg",
   "genre": ["Country", "Honky Tonk"]
 }, {
   "rating": "483",
   "album": "Entertainment!",
   "artist": "Gang of Four",
   "year": "1979",
+  "artwork_url": "http://img.wennermedia.com/660-width/mi0000476655-6ad2d47c-ed58-48e9-8aa3-2ebfed7b45b1.jpg",
   "genre": ["Post-Punk", "New Wave"]
 }, {
   "rating": "484",
   "album": "All the Young Dudes",
   "artist": "Mott the Hoople",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/be043798-66f55cfa-7ee3-4dc0-872c-d48ccc5678f3.jpg",
   "genre": ["Classic Rock", "Glam"]
 }, {
   "rating": "485",
   "album": "Vitalogy",
   "artist": "Pearl Jam",
   "year": "1994",
+  "artwork_url": "http://img.wennermedia.com/660-width/pearljamvitalogy-f2ac08df-4f1c-4d33-bab7-dd271b43c784.jpg",
   "genre": ["Alternative Rock", "Hard Rock"]
 }, {
   "rating": "486",
   "album": "That's the Way of the World",
   "artist": "Earth, Wind & Fire",
   "year": "1975",
+  "artwork_url": "http://img.wennermedia.com/660-width/51gf-gwqjcl-1-7dd90fad-40da-488d-99f2-494085a9e2b3.jpg",
   "genre": ["Soul", "Funk", "Disco"]
 }, {
   "rating": "487",
   "album": "She's So Unusual",
   "artist": "Cyndi Lauper",
   "year": "1983",
+  "artwork_url": "http://img.wennermedia.com/660-width/cl1-38c98251-3411-45e0-8d16-94c5891c023c.jpg",
   "genre": ["Pop Rock", "Synth-pop"]
 }, {
   "rating": "488",
   "album": "New Day Rising",
   "artist": "Husker Du",
   "year": "1985",
+  "artwork_url": "http://img.wennermedia.com/660-width/screen-shot-2015-01-31-at-5-09-42-pm-e223ce1c-9e9a-4592-9200-b5402283b945.png",
   "genre": ["Alternative Rock", "Hardcore", "Punk"]
 }, {
   "rating": "489",
   "album": "Destroyer",
   "artist": "KISS",
   "year": "1976",
+  "artwork_url": "http://img.wennermedia.com/660-width/kiss_destroy_coverar_4000dpi300rgb1000147352-d045b89a-36f1-406a-b737-a290887c6e16.jpg",
   "genre": ["Hard Rock"]
 }, {
   "rating": "490",
   "album": "Tres hombres",
   "artist": "ZZ Top",
   "year": "1973",
+  "artwork_url": "http://img.wennermedia.com/660-width/zz-1-d7ce94f9-3011-478b-bde8-29caa6b515d8.jpg",
   "genre": ["Blues Rock", "Classic Rock"]
 }, {
   "rating": "491",
   "album": "Born Under a Bad Sign",
   "artist": "Albert King",
   "year": "1967",
+  "artwork_url": "http://img.wennermedia.com/660-width/born-under-a-bad-sign-cover-dcf0f101-8c1f-45ee-9826-aaf4836f12e3.jpg",
   "genre": ["Electric Blues", "Rhythm & Blues", "Soul"]
 }, {
   "rating": "492",
   "album": "Touch",
   "artist": "Eurythmics",
   "year": "1983",
+  "artwork_url": "http://img.wennermedia.com/660-width/eurythmics-touch-900-15cccb6a-78ae-4ffe-beaf-1a24dfc3a9df.jpg",
   "genre": ["New Wave", "Synth-pop"]
 }, {
   "rating": "493",
   "album": "Yankee Hotel Foxtrot",
   "artist": "Wilco",
   "year": "2002",
+  "artwork_url": "http://img.wennermedia.com/660-width/wilco-yankee-hotel-foxtrot-07232015-bec17e21-bf8d-4045-bee5-9737327ca979.jpg",
   "genre": ["Alternative Rock"]
 }, {
   "rating": "494",
   "album": "Oracular Spectacular",
   "artist": "MGMT",
   "year": "2007",
+  "artwork_url": "http://img.wennermedia.com/660-width/orcular-spectacular-69875e28-db4d-4b4b-a804-8597bf0b2fec.jpg",
   "genre": ["Synth-pop", "Indie Rock"]
 }, {
   "rating": "495",
   "album": "Give It Up",
   "artist": "Bonnie Raitt",
   "year": "1972",
+  "artwork_url": "http://img.wennermedia.com/660-width/1280x1280-f478d514-66e9-4eaf-8c1a-9b27c8f4d8f9.jpg",
   "genre": ["Blues Rock"]
 }, {
   "rating": "496",
   "album": "Boz Scaggs",
   "artist": "Boz Scaggs",
   "year": "1969",
+  "artwork_url": "http://img.wennermedia.com/660-width/81zygxunhil_sl1076_-ace9e62c-8cc9-41dd-9711-8da2fd700422.jpg",
   "genre": ["Pop Rock"]
 }, {
   "rating": "497",
   "album": "White Blood Cells",
   "artist": "The White Stripes",
   "year": "2001",
+  "artwork_url": "http://img.wennermedia.com/660-width/jbwswbc-a82c0360-1d89-40cb-8b75-5cbcb11c9ae1.jpg",
   "genre": ["Indie Rock", "Alternative Rock", "Blues Rock", "Garage Rock"]
 }, {
   "rating": "498",
   "album": "The Stone Roses",
   "artist": "The Stone Roses",
   "year": "1989",
+  "artwork_url": "http://img.wennermedia.com/660-width/stoneroses-4bbdd32d-bf9c-4a78-bb41-dfd2484a3001.jpg",
   "genre": ["Indie Rock"]
 }, {
   "rating": "499",
   "album": "Live in Cook County Jail",
   "artist": "B.B. King",
   "year": "1971",
+  "artwork_url": "http://img.wennermedia.com/660-width/81guooei4dl_sl1109_-b0b72075-24e3-4a98-a8d5-a9c32b1e3d79.jpg",
   "genre": ["Electric Blues"]
 }, {
   "rating": "500",
   "album": "Aquemini",
   "artist": "OutKast",
   "year": "1998",
+  "artwork_url": "http://img.wennermedia.com/660-width/what-millennials-should-know-about-outkast-aquemini-e29a018b-beb0-467a-8b8b-37c9e3575153.png",
   "genre": ["Reggae", "Gangsta", "Soul", "Conscious"]
 }]

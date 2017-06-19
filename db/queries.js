@@ -13,7 +13,14 @@ module.exports = {
     .join('album_genre', 'album_genre.album_id', 'album.id')
     .join('genre', 'genre.id', 'album_genre.genre_id')
   },
-  create: function(album) {
-    return knex('album').insert(album, '*');
+  // postAlbum: function(album) {
+  //   return knex.select('*', 'album.id as album_id', 'genre.genre_name')
+  //   .from('album')
+  //   .join('album_genre', 'album_genre.album_id', 'album.id')
+  //   .join('genre', 'genre.id', 'album_genre.genre_id')
+  //   .insert(album, '*')
+  // },
+  deleteAlbum: function(rating) {
+    return knex.select('*').from('album').where('rating', rating).del();
   }
 };

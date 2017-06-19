@@ -59,7 +59,8 @@ exports.seed = function(knex, Promise) {
             rating: record.rating,
             album: record.album,
             artist: record.artist,
-            year: record.year
+            year: record.year,
+            artwork_url: record.artwork_url
           }
           // Insert Album into album table, callback 'id' (album.id)
           return knex('album').insert(album_table, 'id')
