@@ -44,7 +44,7 @@ exports.seed = function(knex, Promise) {
       // Loop through genreArray and push each genre to an individual object to insert into the
       for (let i = 0; i < genreArray.length; i++) {
         genreArray[i] = {
-          "genre-name": genreArray[i]
+          "genre_name": genreArray[i]
         };
       }
       // Insert all genres into the genre table
@@ -67,8 +67,8 @@ exports.seed = function(knex, Promise) {
             .then((albumIDs) => {
               // Specify which index value 0;
               const album_id = albumIDs[0];
-              // Lookup in genre table where "genre-name"
-              return knex('genre').whereIn("genre-name", record.genre).pluck('genre.id')
+              // Lookup in genre table where "genre_name"
+              return knex('genre').whereIn("genre_name", record.genre).pluck('genre.id')
                 .then((genreIDs) => {
                   const album_genre_ID = genreIDs.map((genre_id) => {
                     return {

@@ -1,5 +1,5 @@
 {
-  "name": "Top 500 albums",
+  "name": "Top_500_albums",
   "version": "1.0.0",
   "private": true,
   "main": "./bin/www",
@@ -10,6 +10,7 @@
   "dependencies": {
     "body-parser": "~1.17.1",
     "cookie-parser": "~1.4.3",
+    "cors": "^2.8.3",
     "csv": "^1.1.1",
     "debug": "~2.6.3",
     "express": "^4.15.3",
