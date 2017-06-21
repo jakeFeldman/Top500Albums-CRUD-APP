@@ -2,7 +2,7 @@ const knex = require('./knex');
 
 module.exports = {
   getAll: function() {
-    return knex.select('*', 'album.id as album_id', 'genre.genre_name').from('album')
+    return knex.select('*').from('album')
     .join('album_genre', 'album_genre.album_id', 'album.id')
     .join('genre', 'genre.id', 'album_genre.genre_id')
   },
@@ -23,3 +23,5 @@ module.exports = {
     return knex.select('*').from('album').where('rating', rating).del();
   }
 };
+
+// order by rating
