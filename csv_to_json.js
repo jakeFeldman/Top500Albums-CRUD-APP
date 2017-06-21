@@ -15,10 +15,6 @@ fs.readFile('./seeds/albumlist.csv', (error, data) => {
     for (var i = 1; i < data.length; i++) {
       // create each row of data
       let row = data[i];
-      // Define the album rating, located at the first index of the row array
-      // const albumOrder = row[0];
-      // Define the parent object (titled albums) and set each object to the individual
-      // albums rating, inside this create an empy array to store the album info
 
       // Define the individual album object and set each paramater equal to its
       // corrisponding index inside its row array
