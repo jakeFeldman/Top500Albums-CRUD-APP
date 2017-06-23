@@ -13,8 +13,8 @@ function isValidAlbum(album) {
   const hasArtist = typeof album.artist == "string" && album.artist.trim() != '';
   const hasYear = !isNaN(album.rating);
   const hasImageUrl = typeof album.artwork_url == "string" && album.artwork_url.trim() != '';
-  const hasGenre = Array.isArray(album.genre);
-  return hasRating && hasAlbum && hasArtist && hasYear && hasImageUrl && hasGenre;
+  // const hasGenre = Array.isArray(album.genre);
+  return hasRating && hasAlbum && hasArtist && hasYear && hasImageUrl;
 }
 
 router.get('/', (req, res) => {
@@ -67,18 +67,17 @@ router.get('/:rating', isValidRating, (req, res) => {
     })
 })
 
-// router.post('/', (req, res, next) => {
-//   if (isValidAlbum(req.body)) {
-//     queries.postAlbum(req.body)
-//       .then(album => {
-//         res.json(album[0]);
-//       });
-//   } else {
-//     next(new Error("Invalid Album"))
-//   }
-// });
-//
-//
+router.post('/', (req, res, next) => {
+  if (isValidAlbum(req.body)) {
+    queries.postAlbum(req.body)
+      .then(album => {
+        res.json(album[0]);
+      });
+  } else {
+    next(new Error("Invalid Album"))
+  }
+});
+
 // router.put('/:rating', isValidRating, (req, res) => {
 //   queries.updateAlbum()
 //     .then(album => {

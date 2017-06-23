@@ -13,6 +13,7 @@ module.exports = {
       .join('genre', 'genre.id', 'album_genre.genre_id')
   },
   postAlbum: function(album) {
+    // destruture the album object
     const {
       rating,
       album: album_name,
